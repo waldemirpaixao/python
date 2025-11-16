@@ -1,0 +1,10 @@
+{"id": 1, "nome": "Cliente_1", "email": "cliente1@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 100, "ativo": false,"idade": 30}
+{"id": 2, "nome": "Cliente_2", "email": "cliente2@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 200, "ativo": true,"idade": 31}
+{"id": 3, "nome": "Cliente_3", "email": "cliente3@email.com", "cidade": "São Paulo", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 300, "ativo": false,"idade": 28}
+{"id": 4, "nome": "Cliente_4", "email": "cliente4@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 400, "ativo": true,"idade": 22}
+{"id": 5, "nome": "Cliente_5", "email": "cliente5@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 500, "ativo": false,"idade": 35}
+{"id": 6, "nome": "Cliente_6", "email": "cliente6@email.com", "cidade": "São Paulo", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 600, "ativo": true,"idade": 33}
+{"id": 7, "nome": "Cliente_7", "email": "cliente7@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 700, "ativo": false,"idade": 30}
+{"id": 8, "nome": "Cliente_8", "email": "cliente8@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 800, "ativo": true,"idade": 50}
+{"id": 9, "nome": "Cliente_9", "email": "cliente9@email.com", "cidade": "São Paulo", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 900, "ativo": false,"idade": 45}
+{"id": 10, "nome": "Cliente_10", "email": "cliente10@email.com", "cidade": "Rio de Janeiro", "categoria_favorita": "Hardware", "ultima_compra": "2023-11-06", "total_compras": 1000, "ativo": true,"idade": 40}

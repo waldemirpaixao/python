@@ -1,0 +1,3 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preco_Unitario,Valor_Total,Forma_Pagamento,Vendedor,ID_Cliente
+1000,2024-11-04,Cabo HDMI,Acessórios,2,45,90,Débito,João Silva,3295
+1000,2024-11-04,Cabo HDMI,Acessórios,2,45,90,Débito,João Silva Pereira,3296

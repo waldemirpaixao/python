@@ -1,0 +1,1001 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preco_Unitario,Valor_Total,Forma_Pagamento,Vendedor,ID_Cliente
+1000,2024-11-04,Cabo HDMI,Acessórios,2,45,90,Débito,João Silva,3294
+999,2024-11-04,Adaptador HDMI,Acessórios,2,35,70,Boleto,Pedro Oliveira,7956
+997,2024-11-05,Mousepad,Acessórios,4,50,200,Crédito,Maria Santos,7988
+998,2024-11-05,Hub USB,Acessórios,4,80,320,PIX,Ana Costa,4182
+995,2024-11-06,Memória RAM 8GB,Hardware,3,200,600,PIX,Ana Costa,6360
+996,2024-11-06,Hub USB,Acessórios,2,80,160,PIX,João Silva,9614
+994,2024-11-06,Mousepad,Acessórios,2,50,100,Débito,Ana Costa,5294
+993,2024-11-07,Headset 7.1,Periféricos,5,250,1250,Crédito,Ana Costa,4847
+992,2024-11-07,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Débito,Maria Santos,1866
+991,2024-11-08,Suporte Monitor,Acessórios,4,120,480,Débito,Ana Costa,8545
+990,2024-11-08,Memória RAM 8GB,Hardware,5,200,1000,PIX,Maria Santos,7446
+989,2024-11-09,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,Maria Santos,3709
+988,2024-11-09,Mousepad,Acessórios,1,50,50,PIX,Maria Santos,2824
+987,2024-11-09,Mouse Gamer,Periféricos,5,150,750,Débito,João Silva,6521
+986,2024-11-09,Cabo HDMI,Acessórios,1,45,45,Crédito,Pedro Oliveira,7187
+985,2024-11-10,Mousepad,Acessórios,3,50,150,PIX,Maria Santos,2566
+984,2024-11-10,Mousepad,Acessórios,4,50,200,Débito,Maria Santos,8109
+983,2024-11-11,Mousepad,Acessórios,3,50,150,Crédito,Maria Santos,1716
+982,2024-11-11,Cabo HDMI,Acessórios,4,45,180,Boleto,Pedro Oliveira,8583
+981,2024-11-11,Mouse Gamer,Periféricos,3,150,450,Boleto,Maria Santos,7838
+979,2024-11-12,Mouse Gamer,Periféricos,2,150,300,Débito,Ana Costa,2891
+980,2024-11-12,Teclado Mecânico,Periféricos,1,300,300,Débito,Maria Santos,7626
+978,2024-11-13,Webcam HD,Periféricos,1,180,180,PIX,Maria Santos,7241
+977,2024-11-13,Cabo HDMI,Acessórios,5,45,225,Débito,Maria Santos,1518
+976,2024-11-13,Suporte Monitor,Acessórios,1,120,120,Débito,Pedro Oliveira,7761
+975,2024-11-13,Hub USB,Acessórios,4,80,320,Crédito,João Silva,1222
+974,2024-11-13,Headset 7.1,Periféricos,2,250,500,Débito,Ana Costa,6819
+973,2024-11-13,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Débito,Pedro Oliveira,6803
+972,2024-11-14,Cabo HDMI,Acessórios,1,45,45,PIX,Pedro Oliveira,4943
+971,2024-11-15,Headset 7.1,Periféricos,2,250,500,PIX,João Silva,2583
+970,2024-11-15,Processador i7,Hardware,3,2200,6600,Débito,Maria Santos,7178
+969,2024-11-15,"Monitor 24\"\"",Periféricos,2,900,1800,Crédito,Maria Santos,2437
+968,2024-11-16,"Monitor 24\"\"",Periféricos,4,900,3600,Crédito,João Silva,8149
+967,2024-11-16,Suporte Monitor,Acessórios,2,120,240,Boleto,João Silva,1952
+964,2024-11-17,Processador i5,Hardware,5,1200,6000,Boleto,Ana Costa,9986
+966,2024-11-17,Hub USB,Acessórios,5,80,400,PIX,João Silva,1020
+965,2024-11-17,Suporte Monitor,Acessórios,3,120,360,Débito,Ana Costa,8162
+962,2024-11-18,Hub USB,Acessórios,1,80,80,Débito,Pedro Oliveira,3914
+961,2024-11-18,Adaptador HDMI,Acessórios,5,35,175,PIX,Maria Santos,3706
+960,2024-11-18,Adaptador HDMI,Acessórios,4,35,140,Débito,Ana Costa,7116
+959,2024-11-18,Cabo HDMI,Acessórios,1,45,45,Crédito,João Silva,7140
+958,2024-11-18,Suporte Monitor,Acessórios,1,120,120,Boleto,João Silva,5927
+957,2024-11-18,Webcam HD,Periféricos,4,180,720,Débito,Maria Santos,3726
+963,2024-11-18,Mouse Gamer,Periféricos,3,150,450,Débito,Ana Costa,6240
+956,2024-11-19,Headset 7.1,Periféricos,2,250,500,Boleto,Maria Santos,1700
+955,2024-11-19,Adaptador HDMI,Acessórios,3,35,105,Boleto,Ana Costa,3722
+954,2024-11-19,Processador i7,Hardware,1,2200,2200,Crédito,Pedro Oliveira,7717
+953,2024-11-19,Mouse Gamer,Periféricos,2,150,300,Crédito,Pedro Oliveira,3564
+952,2024-11-20,Processador i7,Hardware,5,2200,11000,Crédito,Pedro Oliveira,5392
+947,2024-11-21,Memória RAM 8GB,Hardware,2,200,400,Boleto,João Silva,3896
+948,2024-11-21,Teclado Mecânico,Periféricos,3,300,900,Crédito,Ana Costa,4742
+950,2024-11-21,"Monitor 24\"\"",Periféricos,1,900,900,Débito,Pedro Oliveira,2262
+951,2024-11-21,Cabo HDMI,Acessórios,1,45,45,Crédito,João Silva,3156
+949,2024-11-21,Memória RAM 8GB,Hardware,5,200,1000,Crédito,Pedro Oliveira,3165
+946,2024-11-22,Adaptador HDMI,Acessórios,5,35,175,Crédito,Pedro Oliveira,1346
+945,2024-11-22,Headset 7.1,Periféricos,4,250,1000,PIX,Ana Costa,7163
+944,2024-11-22,Adaptador HDMI,Acessórios,2,35,70,Boleto,João Silva,7328
+943,2024-11-23,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Crédito,Ana Costa,4020
+942,2024-11-23,Memória RAM 8GB,Hardware,1,200,200,Crédito,Maria Santos,8258
+941,2024-11-23,"Monitor 24\"\"",Periféricos,3,900,2700,PIX,Maria Santos,6655
+940,2024-11-23,Cabo HDMI,Acessórios,4,45,180,PIX,Pedro Oliveira,4392
+939,2024-11-23,Mousepad,Acessórios,5,50,250,Boleto,Ana Costa,4966
+938,2024-11-23,Processador i7,Hardware,5,2200,11000,PIX,João Silva,6403
+937,2024-11-23,"Monitor 24\"\"",Periféricos,3,900,2700,PIX,Ana Costa,3699
+936,2024-11-23,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Boleto,Ana Costa,1212
+933,2024-11-24,Mousepad,Acessórios,5,50,250,Débito,Ana Costa,8737
+934,2024-11-24,Mouse Gamer,Periféricos,1,150,150,Crédito,Maria Santos,1969
+935,2024-11-24,Webcam HD,Periféricos,5,180,900,PIX,Ana Costa,5275
+932,2024-11-25,Adaptador HDMI,Acessórios,5,35,175,Débito,João Silva,4740
+931,2024-11-25,"Monitor 24\"\"",Periféricos,3,900,2700,Débito,Ana Costa,7242
+930,2024-11-25,Mouse Gamer,Periféricos,4,150,600,Boleto,João Silva,9055
+929,2024-11-26,Mouse Gamer,Periféricos,4,150,600,Débito,João Silva,9741
+928,2024-11-26,Cabo HDMI,Acessórios,1,45,45,Débito,Pedro Oliveira,1126
+927,2024-11-26,Suporte Monitor,Acessórios,1,120,120,Crédito,João Silva,1867
+926,2024-11-27,Cabo HDMI,Acessórios,2,45,90,Débito,João Silva,4698
+925,2024-11-27,Processador i5,Hardware,4,1200,4800,Boleto,João Silva,5206
+924,2024-11-27,Adaptador HDMI,Acessórios,5,35,175,PIX,Pedro Oliveira,6877
+923,2024-11-28,Memória RAM 8GB,Hardware,2,200,400,Boleto,Maria Santos,4843
+922,2024-11-28,Suporte Monitor,Acessórios,2,120,240,Crédito,Pedro Oliveira,3291
+921,2024-11-29,SSD 500GB,Hardware,1,350,350,Débito,Ana Costa,4153
+920,2024-11-29,SSD 500GB,Hardware,1,350,350,Crédito,João Silva,5775
+919,2024-11-29,Headset 7.1,Periféricos,5,250,1250,Débito,Ana Costa,1233
+918,2024-11-29,Mousepad,Acessórios,5,50,250,Boleto,Ana Costa,7398
+916,2024-12-02,Hub USB,Acessórios,5,80,400,Crédito,Pedro Oliveira,7695
+917,2024-12-02,Memória RAM 8GB,Hardware,3,200,600,PIX,Ana Costa,3057
+915,2024-12-03,SSD 500GB,Hardware,1,350,350,PIX,Pedro Oliveira,6626
+914,2024-12-03,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Débito,Maria Santos,1541
+913,2024-12-03,Webcam HD,Periféricos,1,180,180,Débito,Ana Costa,2565
+912,2024-12-04,"Monitor 24\"\"",Periféricos,3,900,2700,PIX,Ana Costa,3282
+911,2024-12-04,Processador i7,Hardware,5,2200,11000,Crédito,Ana Costa,7111
+910,2024-12-04,Memória RAM 8GB,Hardware,3,200,600,Crédito,Ana Costa,7966
+909,2024-12-05,Teclado Mecânico,Periféricos,2,300,600,Boleto,João Silva,2011
+905,2024-12-06,Mousepad,Acessórios,3,50,150,Débito,Pedro Oliveira,5323
+907,2024-12-06,Webcam HD,Periféricos,1,180,180,Crédito,Ana Costa,3763
+908,2024-12-06,Mousepad,Acessórios,1,50,50,Débito,Pedro Oliveira,5964
+906,2024-12-06,Webcam HD,Periféricos,3,180,540,PIX,Ana Costa,4023
+904,2024-12-07,Suporte Monitor,Acessórios,5,120,600,Débito,Pedro Oliveira,6489
+903,2024-12-07,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Crédito,Ana Costa,9839
+897,2024-12-08,Mousepad,Acessórios,5,50,250,Débito,Ana Costa,5523
+896,2024-12-08,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,João Silva,1292
+898,2024-12-08,Headset 7.1,Periféricos,4,250,1000,Débito,Pedro Oliveira,3740
+902,2024-12-08,Hub USB,Acessórios,4,80,320,Boleto,Ana Costa,3553
+900,2024-12-08,Mousepad,Acessórios,1,50,50,Boleto,João Silva,9136
+901,2024-12-08,Memória RAM 8GB,Hardware,3,200,600,PIX,Ana Costa,6349
+899,2024-12-08,Adaptador HDMI,Acessórios,2,35,70,PIX,Maria Santos,2218
+895,2024-12-09,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Crédito,João Silva,3256
+894,2024-12-09,Headset 7.1,Periféricos,2,250,500,Débito,Maria Santos,6182
+893,2024-12-09,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Boleto,João Silva,7928
+892,2024-12-10,"Monitor 24\"\"",Periféricos,2,900,1800,Boleto,João Silva,6867
+891,2024-12-11,Suporte Monitor,Acessórios,5,120,600,Boleto,Ana Costa,7869
+890,2024-12-13,Headset 7.1,Periféricos,2,250,500,Boleto,Pedro Oliveira,2640
+889,2024-12-14,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,João Silva,7154
+888,2024-12-14,Mousepad,Acessórios,2,50,100,PIX,Ana Costa,2969
+887,2024-12-14,Mousepad,Acessórios,2,50,100,Crédito,Maria Santos,4166
+885,2024-12-15,Teclado Mecânico,Periféricos,3,300,900,Boleto,Pedro Oliveira,7542
+886,2024-12-15,Memória RAM 8GB,Hardware,2,200,400,Crédito,Maria Santos,9399
+884,2024-12-16,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,Pedro Oliveira,2406
+883,2024-12-16,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,PIX,Pedro Oliveira,2183
+882,2024-12-16,SSD 500GB,Hardware,1,350,350,PIX,Ana Costa,3176
+881,2024-12-17,Processador i7,Hardware,3,2200,6600,Boleto,João Silva,1773
+880,2024-12-17,Processador i5,Hardware,3,1200,3600,Débito,Maria Santos,9186
+879,2024-12-19,Memória RAM 8GB,Hardware,4,200,800,Débito,Ana Costa,6589
+878,2024-12-19,Cabo HDMI,Acessórios,3,45,135,Débito,Maria Santos,3511
+877,2024-12-20,Cabo HDMI,Acessórios,5,45,225,Boleto,Ana Costa,9546
+876,2024-12-20,Teclado Mecânico,Periféricos,2,300,600,Débito,João Silva,2028
+869,2024-12-21,Processador i5,Hardware,5,1200,6000,Boleto,Ana Costa,4398
+870,2024-12-21,Memória RAM 8GB,Hardware,3,200,600,PIX,João Silva,6371
+871,2024-12-21,Headset 7.1,Periféricos,5,250,1250,PIX,João Silva,7179
+873,2024-12-21,Mousepad,Acessórios,4,50,200,Crédito,João Silva,6177
+874,2024-12-21,Processador i5,Hardware,1,1200,1200,Crédito,João Silva,8339
+872,2024-12-21,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Crédito,João Silva,1596
+875,2024-12-21,Processador i5,Hardware,3,1200,3600,Boleto,João Silva,5552
+868,2024-12-22,SSD 500GB,Hardware,5,350,1750,Crédito,Pedro Oliveira,1515
+867,2024-12-22,SSD 500GB,Hardware,2,350,700,Débito,Maria Santos,4600
+866,2024-12-22,Webcam HD,Periféricos,5,180,900,PIX,João Silva,2669
+865,2024-12-22,Mouse Gamer,Periféricos,1,150,150,Crédito,Pedro Oliveira,5012
+864,2024-12-22,Suporte Monitor,Acessórios,1,120,120,Crédito,Maria Santos,9944
+863,2024-12-22,Processador i7,Hardware,2,2200,4400,PIX,Pedro Oliveira,1464
+862,2024-12-23,Hub USB,Acessórios,2,80,160,Crédito,Maria Santos,1861
+861,2024-12-23,Mousepad,Acessórios,5,50,250,PIX,Ana Costa,5095
+860,2024-12-23,Hub USB,Acessórios,2,80,160,Débito,João Silva,8290
+859,2024-12-24,Processador i7,Hardware,2,2200,4400,Débito,Pedro Oliveira,2860
+858,2024-12-24,Webcam HD,Periféricos,5,180,900,Boleto,João Silva,3387
+857,2024-12-25,Headset 7.1,Periféricos,2,250,500,Débito,Maria Santos,9719
+856,2024-12-25,Hub USB,Acessórios,2,80,160,Boleto,Pedro Oliveira,2865
+855,2024-12-26,Mouse Gamer,Periféricos,5,150,750,Boleto,João Silva,4021
+853,2024-12-27,Adaptador HDMI,Acessórios,1,35,35,Crédito,Maria Santos,3324
+854,2024-12-27,Mousepad,Acessórios,5,50,250,PIX,Pedro Oliveira,2495
+852,2024-12-30,Cabo HDMI,Acessórios,5,45,225,Crédito,João Silva,7161
+851,2024-12-30,Teclado Mecânico,Periféricos,4,300,1200,Débito,Ana Costa,5461
+850,2024-12-30,Processador i7,Hardware,2,2200,4400,Crédito,Ana Costa,8915
+849,2024-12-30,Adaptador HDMI,Acessórios,2,35,70,Débito,Ana Costa,8737
+848,2024-12-31,Teclado Mecânico,Periféricos,1,300,300,Crédito,Maria Santos,6115
+847,2024-12-31,Cabo HDMI,Acessórios,3,45,135,Crédito,Maria Santos,7028
+846,2025-01-01,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,PIX,Ana Costa,3987
+845,2025-01-01,Memória RAM 8GB,Hardware,4,200,800,Débito,Pedro Oliveira,7213
+844,2025-01-01,Headset 7.1,Periféricos,5,250,1250,Crédito,Pedro Oliveira,4595
+843,2025-01-02,Suporte Monitor,Acessórios,1,120,120,Crédito,João Silva,2320
+842,2025-01-02,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Débito,Ana Costa,4293
+838,2025-01-03,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Crédito,Ana Costa,5437
+840,2025-01-03,Suporte Monitor,Acessórios,1,120,120,Crédito,Pedro Oliveira,9237
+841,2025-01-03,Mousepad,Acessórios,3,50,150,Débito,Pedro Oliveira,7799
+839,2025-01-03,Suporte Monitor,Acessórios,1,120,120,Boleto,João Silva,1712
+837,2025-01-04,"Monitor 24\"\"",Periféricos,2,900,1800,Débito,Pedro Oliveira,2267
+836,2025-01-04,Webcam HD,Periféricos,4,180,720,Débito,Maria Santos,5587
+835,2025-01-05,Mousepad,Acessórios,3,50,150,Crédito,Pedro Oliveira,8054
+834,2025-01-05,Processador i7,Hardware,2,2200,4400,Crédito,Ana Costa,3072
+833,2025-01-06,Teclado Mecânico,Periféricos,1,300,300,Débito,Maria Santos,3538
+832,2025-01-06,Processador i5,Hardware,5,1200,6000,Crédito,Pedro Oliveira,8849
+831,2025-01-06,Cabo HDMI,Acessórios,5,45,225,PIX,João Silva,4499
+830,2025-01-06,Cabo HDMI,Acessórios,1,45,45,Débito,Ana Costa,2438
+829,2025-01-06,Processador i7,Hardware,1,2200,2200,PIX,Ana Costa,2225
+828,2025-01-06,Mouse Gamer,Periféricos,2,150,300,PIX,Maria Santos,8226
+823,2025-01-07,Headset 7.1,Periféricos,1,250,250,Boleto,Pedro Oliveira,7806
+824,2025-01-07,Mouse Gamer,Periféricos,2,150,300,Crédito,Pedro Oliveira,8912
+826,2025-01-07,Webcam HD,Periféricos,1,180,180,Débito,Maria Santos,6944
+827,2025-01-07,"Monitor 24\"\"",Periféricos,3,900,2700,Boleto,Pedro Oliveira,9540
+825,2025-01-07,Adaptador HDMI,Acessórios,2,35,70,Crédito,Maria Santos,2191
+822,2025-01-08,Processador i5,Hardware,2,1200,2400,Boleto,João Silva,9820
+821,2025-01-09,Adaptador HDMI,Acessórios,1,35,35,Débito,Pedro Oliveira,7793
+820,2025-01-09,Hub USB,Acessórios,4,80,320,PIX,Maria Santos,9732
+819,2025-01-11,Headset 7.1,Periféricos,4,250,1000,Débito,Ana Costa,8304
+818,2025-01-11,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,Pedro Oliveira,6559
+817,2025-01-11,Adaptador HDMI,Acessórios,5,35,175,Boleto,Maria Santos,5400
+816,2025-01-12,Cabo HDMI,Acessórios,3,45,135,Crédito,Maria Santos,3329
+815,2025-01-13,Headset 7.1,Periféricos,5,250,1250,Crédito,Maria Santos,5178
+814,2025-01-13,Suporte Monitor,Acessórios,2,120,240,PIX,Pedro Oliveira,9060
+813,2025-01-13,"Monitor 24\"\"",Periféricos,4,900,3600,Boleto,Maria Santos,9057
+812,2025-01-13,"Monitor 24\"\"",Periféricos,3,900,2700,Débito,Maria Santos,9466
+811,2025-01-13,Teclado Mecânico,Periféricos,3,300,900,PIX,João Silva,5918
+808,2025-01-14,Processador i5,Hardware,3,1200,3600,Débito,Ana Costa,7597
+810,2025-01-14,Hub USB,Acessórios,2,80,160,PIX,Pedro Oliveira,4338
+809,2025-01-14,SSD 500GB,Hardware,2,350,700,Boleto,João Silva,8441
+804,2025-01-15,Processador i5,Hardware,4,1200,4800,Boleto,Pedro Oliveira,1228
+807,2025-01-15,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Crédito,Ana Costa,5125
+806,2025-01-15,Adaptador HDMI,Acessórios,2,35,70,Crédito,Pedro Oliveira,5172
+805,2025-01-15,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,Maria Santos,8832
+803,2025-01-16,Processador i5,Hardware,4,1200,4800,Boleto,Maria Santos,1042
+802,2025-01-16,Cabo HDMI,Acessórios,2,45,90,PIX,Ana Costa,7721
+801,2025-01-16,Webcam HD,Periféricos,4,180,720,Crédito,Maria Santos,9197
+800,2025-01-17,Hub USB,Acessórios,2,80,160,PIX,Ana Costa,7731
+799,2025-01-17,Processador i7,Hardware,5,2200,11000,Boleto,João Silva,7074
+798,2025-01-17,Mousepad,Acessórios,4,50,200,PIX,Pedro Oliveira,9816
+797,2025-01-17,"Monitor 24\"\"",Periféricos,4,900,3600,PIX,Pedro Oliveira,6935
+796,2025-01-17,Mousepad,Acessórios,5,50,250,Crédito,João Silva,4186
+791,2025-01-18,Hub USB,Acessórios,1,80,80,Boleto,Ana Costa,2007
+792,2025-01-18,Mouse Gamer,Periféricos,1,150,150,PIX,Ana Costa,6209
+794,2025-01-18,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Crédito,Pedro Oliveira,1860
+795,2025-01-18,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,PIX,Pedro Oliveira,8271
+793,2025-01-18,Cabo HDMI,Acessórios,4,45,180,Crédito,João Silva,7693
+790,2025-01-19,Mouse Gamer,Periféricos,2,150,300,PIX,Maria Santos,5065
+789,2025-01-19,Mousepad,Acessórios,2,50,100,PIX,Maria Santos,3037
+788,2025-01-19,Mousepad,Acessórios,1,50,50,Crédito,João Silva,4187
+787,2025-01-19,SSD 500GB,Hardware,2,350,700,Boleto,Ana Costa,8220
+786,2025-01-20,Teclado Mecânico,Periféricos,4,300,1200,Crédito,Maria Santos,3250
+785,2025-01-22,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Pedro Oliveira,8132
+784,2025-01-22,Adaptador HDMI,Acessórios,3,35,105,Boleto,Maria Santos,5506
+783,2025-01-22,Mousepad,Acessórios,3,50,150,Débito,Pedro Oliveira,6922
+782,2025-01-22,"Monitor 24\"\"",Periféricos,1,900,900,PIX,João Silva,7352
+781,2025-01-22,Adaptador HDMI,Acessórios,2,35,70,PIX,João Silva,8181
+777,2025-01-23,"Monitor 24\"\"",Periféricos,5,900,4500,Crédito,João Silva,3774
+779,2025-01-23,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Boleto,Pedro Oliveira,6784
+780,2025-01-23,Memória RAM 8GB,Hardware,2,200,400,Boleto,João Silva,5914
+778,2025-01-23,Processador i5,Hardware,3,1200,3600,PIX,Maria Santos,9116
+776,2025-01-24,Hub USB,Acessórios,4,80,320,Boleto,Ana Costa,3465
+775,2025-01-25,Adaptador HDMI,Acessórios,2,35,70,Boleto,Ana Costa,7237
+774,2025-01-25,Processador i7,Hardware,5,2200,11000,Crédito,Pedro Oliveira,3963
+773,2025-01-26,Mouse Gamer,Periféricos,5,150,750,PIX,Ana Costa,5779
+772,2025-01-26,Processador i7,Hardware,4,2200,8800,Crédito,Ana Costa,7952
+771,2025-01-27,Adaptador HDMI,Acessórios,4,35,140,Crédito,Ana Costa,7443
+770,2025-01-27,Cabo HDMI,Acessórios,3,45,135,Boleto,Maria Santos,1349
+769,2025-01-27,Suporte Monitor,Acessórios,2,120,240,Crédito,Maria Santos,6507
+768,2025-01-27,Teclado Mecânico,Periféricos,1,300,300,Crédito,João Silva,1005
+767,2025-01-27,Headset 7.1,Periféricos,5,250,1250,Crédito,Ana Costa,5356
+766,2025-01-28,Processador i5,Hardware,2,1200,2400,Débito,Pedro Oliveira,3836
+765,2025-01-29,Processador i7,Hardware,3,2200,6600,Débito,Maria Santos,1588
+761,2025-01-30,Headset 7.1,Periféricos,2,250,500,Boleto,Maria Santos,7678
+764,2025-01-30,Headset 7.1,Periféricos,3,250,750,Crédito,Ana Costa,9560
+763,2025-01-30,"Monitor 24\"\"",Periféricos,1,900,900,PIX,Maria Santos,6900
+762,2025-01-30,Headset 7.1,Periféricos,3,250,750,Débito,João Silva,3711
+760,2025-01-31,Adaptador HDMI,Acessórios,1,35,35,Crédito,Maria Santos,1839
+759,2025-01-31,Suporte Monitor,Acessórios,2,120,240,Débito,Maria Santos,1303
+758,2025-02-01,Memória RAM 8GB,Hardware,4,200,800,Boleto,João Silva,7088
+757,2025-02-01,Hub USB,Acessórios,3,80,240,Crédito,Ana Costa,4207
+756,2025-02-01,Mousepad,Acessórios,3,50,150,PIX,João Silva,8361
+755,2025-02-01,Adaptador HDMI,Acessórios,2,35,70,Boleto,Ana Costa,9157
+754,2025-02-02,Mouse Gamer,Periféricos,1,150,150,Crédito,Maria Santos,2336
+753,2025-02-02,Webcam HD,Periféricos,1,180,180,Boleto,João Silva,3563
+752,2025-02-03,Headset 7.1,Periféricos,3,250,750,Boleto,Ana Costa,4207
+751,2025-02-04,Memória RAM 8GB,Hardware,2,200,400,Débito,Pedro Oliveira,5491
+749,2025-02-05,Mouse Gamer,Periféricos,4,150,600,Débito,Pedro Oliveira,6243
+750,2025-02-05,Cabo HDMI,Acessórios,4,45,180,Débito,Pedro Oliveira,1031
+746,2025-02-06,Adaptador HDMI,Acessórios,5,35,175,PIX,Pedro Oliveira,6540
+748,2025-02-06,Hub USB,Acessórios,5,80,400,Crédito,Maria Santos,6707
+747,2025-02-06,Adaptador HDMI,Acessórios,3,35,105,PIX,Pedro Oliveira,4030
+742,2025-02-07,Processador i5,Hardware,2,1200,2400,Boleto,Maria Santos,3758
+745,2025-02-07,"Monitor 24\"\"",Periféricos,4,900,3600,Crédito,Pedro Oliveira,8367
+744,2025-02-07,Processador i5,Hardware,2,1200,2400,Crédito,João Silva,9403
+743,2025-02-07,Adaptador HDMI,Acessórios,1,35,35,Débito,Ana Costa,9976
+740,2025-02-09,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,Ana Costa,4886
+739,2025-02-09,Hub USB,Acessórios,1,80,80,PIX,Ana Costa,6714
+738,2025-02-09,Processador i7,Hardware,1,2200,2200,PIX,Pedro Oliveira,7640
+737,2025-02-09,Mouse Gamer,Periféricos,1,150,150,Débito,João Silva,3341
+736,2025-02-09,Suporte Monitor,Acessórios,1,120,120,Boleto,Ana Costa,5184
+741,2025-02-09,Memória RAM 8GB,Hardware,1,200,200,Crédito,João Silva,2404
+735,2025-02-10,Mouse Gamer,Periféricos,4,150,600,PIX,João Silva,1103
+734,2025-02-10,Processador i7,Hardware,2,2200,4400,Débito,João Silva,9479
+733,2025-02-11,Processador i7,Hardware,3,2200,6600,Boleto,Ana Costa,2696
+732,2025-02-11,Processador i5,Hardware,4,1200,4800,PIX,Maria Santos,4025
+731,2025-02-11,Processador i5,Hardware,2,1200,2400,Crédito,João Silva,7506
+727,2025-02-12,Webcam HD,Periféricos,1,180,180,PIX,Maria Santos,7543
+730,2025-02-12,Mouse Gamer,Periféricos,4,150,600,Débito,Pedro Oliveira,3394
+729,2025-02-12,Processador i5,Hardware,4,1200,4800,Débito,Maria Santos,4125
+728,2025-02-12,SSD 500GB,Hardware,2,350,700,Boleto,João Silva,1308
+726,2025-02-13,Adaptador HDMI,Acessórios,4,35,140,Boleto,Ana Costa,4166
+725,2025-02-15,SSD 500GB,Hardware,4,350,1400,PIX,Pedro Oliveira,5732
+724,2025-02-15,SSD 500GB,Hardware,2,350,700,Boleto,Maria Santos,7266
+723,2025-02-15,Mousepad,Acessórios,4,50,200,Débito,Pedro Oliveira,9646
+722,2025-02-15,Memória RAM 8GB,Hardware,1,200,200,Crédito,Maria Santos,4577
+721,2025-02-16,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Débito,João Silva,8235
+720,2025-02-17,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,Pedro Oliveira,6002
+719,2025-02-17,Cabo HDMI,Acessórios,5,45,225,PIX,João Silva,3432
+718,2025-02-17,Suporte Monitor,Acessórios,3,120,360,Boleto,Maria Santos,1639
+717,2025-02-17,SSD 500GB,Hardware,1,350,350,PIX,Ana Costa,1584
+716,2025-02-18,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Boleto,Pedro Oliveira,7481
+712,2025-02-19,Headset 7.1,Periféricos,4,250,1000,Boleto,Maria Santos,6464
+714,2025-02-19,Hub USB,Acessórios,1,80,80,Boleto,Ana Costa,5325
+715,2025-02-19,Mouse Gamer,Periféricos,1,150,150,Crédito,Maria Santos,6324
+713,2025-02-19,Suporte Monitor,Acessórios,5,120,600,PIX,Pedro Oliveira,1209
+711,2025-02-20,Suporte Monitor,Acessórios,3,120,360,Crédito,João Silva,4894
+710,2025-02-20,Adaptador HDMI,Acessórios,5,35,175,Boleto,Ana Costa,4344
+709,2025-02-21,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Boleto,Ana Costa,1479
+708,2025-02-21,Cabo HDMI,Acessórios,1,45,45,PIX,Ana Costa,6694
+707,2025-02-21,Mousepad,Acessórios,4,50,200,Débito,Ana Costa,9493
+706,2025-02-21,"Monitor 24\"\"",Periféricos,1,900,900,Boleto,Maria Santos,8887
+705,2025-02-22,Processador i7,Hardware,4,2200,8800,PIX,Ana Costa,7392
+704,2025-02-22,Mousepad,Acessórios,4,50,200,Boleto,João Silva,2412
+703,2025-02-22,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,João Silva,1855
+702,2025-02-23,"Monitor 24\"\"",Periféricos,4,900,3600,Boleto,Maria Santos,6437
+701,2025-02-23,Mousepad,Acessórios,3,50,150,Boleto,Ana Costa,7200
+695,2025-02-25,Hub USB,Acessórios,5,80,400,Boleto,Pedro Oliveira,8092
+696,2025-02-25,Memória RAM 8GB,Hardware,3,200,600,Boleto,Maria Santos,8408
+699,2025-02-25,Processador i5,Hardware,1,1200,1200,PIX,Pedro Oliveira,9642
+698,2025-02-25,Adaptador HDMI,Acessórios,3,35,105,Crédito,Ana Costa,9263
+700,2025-02-25,Hub USB,Acessórios,2,80,160,PIX,Maria Santos,5339
+697,2025-02-25,Hub USB,Acessórios,4,80,320,Crédito,Maria Santos,8228
+694,2025-02-26,SSD 500GB,Hardware,5,350,1750,Crédito,Maria Santos,6461
+693,2025-02-27,Mousepad,Acessórios,5,50,250,Débito,João Silva,1440
+692,2025-02-27,SSD 500GB,Hardware,1,350,350,Crédito,João Silva,5892
+691,2025-02-28,Webcam HD,Periféricos,1,180,180,PIX,Ana Costa,7451
+690,2025-02-28,Webcam HD,Periféricos,5,180,900,Crédito,João Silva,8010
+689,2025-03-01,Memória RAM 8GB,Hardware,3,200,600,Boleto,Ana Costa,9556
+683,2025-03-02,Processador i7,Hardware,5,2200,11000,PIX,João Silva,8048
+685,2025-03-02,Teclado Mecânico,Periféricos,2,300,600,Crédito,João Silva,4630
+684,2025-03-02,Teclado Mecânico,Periféricos,1,300,300,Débito,Pedro Oliveira,5747
+687,2025-03-02,"Monitor 24\"\"",Periféricos,1,900,900,Boleto,Pedro Oliveira,8432
+686,2025-03-02,Mouse Gamer,Periféricos,2,150,300,Boleto,Ana Costa,9242
+688,2025-03-02,Headset 7.1,Periféricos,4,250,1000,PIX,Pedro Oliveira,1223
+682,2025-03-03,Teclado Mecânico,Periféricos,2,300,600,Débito,Pedro Oliveira,1293
+681,2025-03-03,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Boleto,Pedro Oliveira,9032
+680,2025-03-04,Adaptador HDMI,Acessórios,5,35,175,PIX,João Silva,9657
+679,2025-03-05,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Crédito,João Silva,1964
+678,2025-03-05,Cabo HDMI,Acessórios,1,45,45,Crédito,Maria Santos,7653
+677,2025-03-05,Cabo HDMI,Acessórios,3,45,135,Crédito,Ana Costa,5548
+676,2025-03-05,Headset 7.1,Periféricos,1,250,250,PIX,João Silva,1674
+675,2025-03-05,Mouse Gamer,Periféricos,2,150,300,PIX,João Silva,9843
+674,2025-03-06,Processador i5,Hardware,5,1200,6000,Boleto,Ana Costa,9344
+673,2025-03-06,Memória RAM 8GB,Hardware,5,200,1000,Crédito,Ana Costa,2478
+672,2025-03-06,Teclado Mecânico,Periféricos,4,300,1200,Crédito,Pedro Oliveira,5698
+671,2025-03-06,Suporte Monitor,Acessórios,4,120,480,PIX,Pedro Oliveira,5069
+670,2025-03-06,Cabo HDMI,Acessórios,3,45,135,PIX,Ana Costa,2472
+668,2025-03-07,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,Maria Santos,1047
+669,2025-03-07,Webcam HD,Periféricos,5,180,900,PIX,Ana Costa,7647
+667,2025-03-08,Suporte Monitor,Acessórios,1,120,120,Crédito,João Silva,2980
+666,2025-03-08,Cabo HDMI,Acessórios,5,45,225,Débito,Maria Santos,9082
+665,2025-03-08,Memória RAM 8GB,Hardware,5,200,1000,Crédito,Ana Costa,3534
+664,2025-03-08,Webcam HD,Periféricos,5,180,900,Boleto,Pedro Oliveira,2871
+663,2025-03-09,"Monitor 24\"\"",Periféricos,3,900,2700,Débito,Pedro Oliveira,4837
+662,2025-03-09,Suporte Monitor,Acessórios,3,120,360,PIX,João Silva,6091
+661,2025-03-09,Hub USB,Acessórios,2,80,160,Boleto,Pedro Oliveira,4783
+660,2025-03-10,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,João Silva,6548
+659,2025-03-10,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Ana Costa,2309
+658,2025-03-10,Webcam HD,Periféricos,2,180,360,Crédito,Ana Costa,1707
+657,2025-03-10,Headset 7.1,Periféricos,4,250,1000,Crédito,João Silva,4344
+656,2025-03-10,SSD 500GB,Hardware,5,350,1750,Boleto,João Silva,7679
+654,2025-03-11,"Monitor 24\"\"",Periféricos,5,900,4500,Débito,João Silva,6416
+655,2025-03-11,Memória RAM 8GB,Hardware,1,200,200,Crédito,João Silva,1229
+651,2025-03-12,SSD 500GB,Hardware,2,350,700,PIX,Pedro Oliveira,2675
+653,2025-03-12,Mouse Gamer,Periféricos,4,150,600,Boleto,Ana Costa,4804
+652,2025-03-12,Hub USB,Acessórios,2,80,160,Débito,Maria Santos,6499
+650,2025-03-13,Memória RAM 8GB,Hardware,2,200,400,Crédito,João Silva,6971
+649,2025-03-14,Mouse Gamer,Periféricos,3,150,450,PIX,Maria Santos,8149
+648,2025-03-14,Teclado Mecânico,Periféricos,4,300,1200,PIX,Maria Santos,4981
+647,2025-03-15,Adaptador HDMI,Acessórios,4,35,140,Boleto,Pedro Oliveira,5501
+646,2025-03-15,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Débito,João Silva,3213
+645,2025-03-16,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,Maria Santos,7912
+644,2025-03-16,Adaptador HDMI,Acessórios,4,35,140,Crédito,Maria Santos,4057
+643,2025-03-16,Processador i5,Hardware,3,1200,3600,Débito,Ana Costa,6404
+642,2025-03-16,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,PIX,Pedro Oliveira,8718
+641,2025-03-17,Cabo HDMI,Acessórios,5,45,225,PIX,Pedro Oliveira,2560
+637,2025-03-18,Mousepad,Acessórios,4,50,200,PIX,João Silva,4790
+638,2025-03-18,Suporte Monitor,Acessórios,1,120,120,PIX,Pedro Oliveira,8128
+639,2025-03-18,Adaptador HDMI,Acessórios,5,35,175,Débito,Pedro Oliveira,7010
+640,2025-03-18,Teclado Mecânico,Periféricos,2,300,600,Boleto,Maria Santos,2676
+636,2025-03-19,Hub USB,Acessórios,1,80,80,PIX,Ana Costa,1079
+635,2025-03-19,Headset 7.1,Periféricos,3,250,750,PIX,Ana Costa,5111
+634,2025-03-19,Adaptador HDMI,Acessórios,1,35,35,PIX,João Silva,3237
+633,2025-03-21,Mousepad,Acessórios,4,50,200,Crédito,Maria Santos,9442
+632,2025-03-22,Cabo HDMI,Acessórios,2,45,90,Crédito,João Silva,4160
+631,2025-03-23,Memória RAM 8GB,Hardware,4,200,800,Crédito,Ana Costa,6188
+627,2025-03-24,"Monitor 24\"\"",Periféricos,1,900,900,Crédito,Ana Costa,9507
+630,2025-03-24,Headset 7.1,Periféricos,4,250,1000,Débito,Pedro Oliveira,3677
+629,2025-03-24,Mouse Gamer,Periféricos,2,150,300,Boleto,João Silva,7028
+628,2025-03-24,Suporte Monitor,Acessórios,1,120,120,Crédito,Maria Santos,8517
+624,2025-03-25,"Monitor 24\"\"",Periféricos,4,900,3600,Boleto,João Silva,7708
+626,2025-03-25,"Monitor 24\"\"",Periféricos,1,900,900,PIX,Maria Santos,3117
+625,2025-03-25,Memória RAM 8GB,Hardware,3,200,600,Crédito,Pedro Oliveira,8418
+623,2025-03-26,Processador i5,Hardware,2,1200,2400,Crédito,Maria Santos,9875
+622,2025-03-26,Suporte Monitor,Acessórios,5,120,600,Débito,Maria Santos,7856
+621,2025-03-26,Memória RAM 8GB,Hardware,5,200,1000,PIX,Pedro Oliveira,4950
+620,2025-03-26,Hub USB,Acessórios,2,80,160,Débito,Ana Costa,4902
+619,2025-03-26,Teclado Mecânico,Periféricos,3,300,900,Boleto,João Silva,2967
+618,2025-03-26,"Monitor 24\"\"",Periféricos,4,900,3600,PIX,Maria Santos,3933
+617,2025-03-27,Teclado Mecânico,Periféricos,3,300,900,PIX,Maria Santos,7647
+616,2025-03-28,Mousepad,Acessórios,4,50,200,Débito,Ana Costa,1811
+615,2025-03-29,Adaptador HDMI,Acessórios,5,35,175,Débito,Pedro Oliveira,8252
+614,2025-03-29,Mousepad,Acessórios,3,50,150,Crédito,Maria Santos,7781
+613,2025-03-30,Mouse Gamer,Periféricos,4,150,600,PIX,Ana Costa,3929
+612,2025-03-30,Teclado Mecânico,Periféricos,4,300,1200,PIX,Pedro Oliveira,4973
+611,2025-03-31,Teclado Mecânico,Periféricos,1,300,300,PIX,Ana Costa,2615
+610,2025-03-31,Hub USB,Acessórios,2,80,160,Boleto,Pedro Oliveira,3662
+609,2025-04-01,Mouse Gamer,Periféricos,1,150,150,Débito,Pedro Oliveira,7574
+607,2025-04-02,Mouse Gamer,Periféricos,2,150,300,PIX,Ana Costa,8797
+606,2025-04-02,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,PIX,Ana Costa,8887
+605,2025-04-02,Webcam HD,Periféricos,4,180,720,PIX,João Silva,3782
+608,2025-04-02,Mousepad,Acessórios,3,50,150,PIX,Pedro Oliveira,9531
+604,2025-04-03,Mousepad,Acessórios,1,50,50,PIX,Maria Santos,3890
+603,2025-04-04,Teclado Mecânico,Periféricos,4,300,1200,Boleto,Ana Costa,1650
+602,2025-04-05,Cabo HDMI,Acessórios,2,45,90,PIX,Maria Santos,9459
+601,2025-04-05,Hub USB,Acessórios,1,80,80,Débito,Maria Santos,6048
+600,2025-04-05,Mousepad,Acessórios,4,50,200,Crédito,Ana Costa,1453
+599,2025-04-05,Mouse Gamer,Periféricos,5,150,750,PIX,Maria Santos,3863
+598,2025-04-07,Teclado Mecânico,Periféricos,5,300,1500,Débito,Pedro Oliveira,8637
+597,2025-04-07,Processador i5,Hardware,5,1200,6000,Débito,Maria Santos,7081
+591,2025-04-08,Webcam HD,Periféricos,5,180,900,PIX,Maria Santos,2897
+592,2025-04-08,Processador i7,Hardware,3,2200,6600,Crédito,Maria Santos,5076
+595,2025-04-08,Webcam HD,Periféricos,1,180,180,Boleto,Ana Costa,7028
+594,2025-04-08,Processador i5,Hardware,4,1200,4800,Débito,Maria Santos,7124
+596,2025-04-08,Processador i5,Hardware,4,1200,4800,Boleto,Ana Costa,8161
+593,2025-04-08,Mousepad,Acessórios,2,50,100,Débito,Maria Santos,8626
+590,2025-04-09,Mousepad,Acessórios,5,50,250,Crédito,Pedro Oliveira,8961
+589,2025-04-09,Teclado Mecânico,Periféricos,1,300,300,Boleto,Pedro Oliveira,3692
+588,2025-04-10,SSD 500GB,Hardware,4,350,1400,Boleto,Pedro Oliveira,5574
+587,2025-04-10,Cabo HDMI,Acessórios,5,45,225,Débito,Pedro Oliveira,4915
+586,2025-04-10,Memória RAM 8GB,Hardware,2,200,400,PIX,João Silva,3327
+585,2025-04-10,Mouse Gamer,Periféricos,5,150,750,Boleto,Pedro Oliveira,1564
+584,2025-04-11,Memória RAM 8GB,Hardware,5,200,1000,Crédito,Ana Costa,7043
+583,2025-04-11,Mouse Gamer,Periféricos,4,150,600,Boleto,Maria Santos,2434
+582,2025-04-11,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,PIX,Ana Costa,6066
+579,2025-04-12,"Monitor 24\"\"",Periféricos,3,900,2700,Boleto,Ana Costa,6946
+581,2025-04-12,Webcam HD,Periféricos,4,180,720,Débito,Ana Costa,7119
+580,2025-04-12,Teclado Mecânico,Periféricos,2,300,600,Crédito,Ana Costa,9715
+578,2025-04-13,Memória RAM 8GB,Hardware,1,200,200,Crédito,João Silva,6527
+577,2025-04-13,"Monitor 24\"\"",Periféricos,3,900,2700,Boleto,Pedro Oliveira,4368
+576,2025-04-13,SSD 500GB,Hardware,4,350,1400,Crédito,Pedro Oliveira,8977
+575,2025-04-13,Mouse Gamer,Periféricos,4,150,600,Crédito,Pedro Oliveira,7128
+574,2025-04-14,Adaptador HDMI,Acessórios,4,35,140,Crédito,Ana Costa,5292
+573,2025-04-14,Webcam HD,Periféricos,5,180,900,Débito,João Silva,6645
+572,2025-04-15,Suporte Monitor,Acessórios,5,120,600,Boleto,Maria Santos,9200
+571,2025-04-15,Cabo HDMI,Acessórios,3,45,135,Débito,Pedro Oliveira,1419
+570,2025-04-16,Webcam HD,Periféricos,3,180,540,Débito,João Silva,3233
+569,2025-04-16,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Ana Costa,7745
+568,2025-04-16,Hub USB,Acessórios,2,80,160,Débito,Ana Costa,7729
+563,2025-04-17,Hub USB,Acessórios,4,80,320,Débito,João Silva,2214
+564,2025-04-17,Processador i7,Hardware,5,2200,11000,Crédito,Ana Costa,7009
+562,2025-04-17,Memória RAM 8GB,Hardware,1,200,200,Boleto,Pedro Oliveira,8378
+566,2025-04-17,Headset 7.1,Periféricos,4,250,1000,Crédito,Pedro Oliveira,4161
+567,2025-04-17,Hub USB,Acessórios,4,80,320,Boleto,Maria Santos,1435
+565,2025-04-17,Suporte Monitor,Acessórios,5,120,600,Crédito,Ana Costa,7259
+561,2025-04-18,Suporte Monitor,Acessórios,2,120,240,Boleto,Pedro Oliveira,8482
+560,2025-04-18,Teclado Mecânico,Periféricos,4,300,1200,Crédito,João Silva,8591
+559,2025-04-18,Hub USB,Acessórios,1,80,80,Crédito,Maria Santos,2020
+558,2025-04-18,Processador i7,Hardware,5,2200,11000,Boleto,Pedro Oliveira,5641
+557,2025-04-18,Cabo HDMI,Acessórios,1,45,45,Boleto,Ana Costa,6316
+556,2025-04-18,Headset 7.1,Periféricos,5,250,1250,Crédito,João Silva,6356
+553,2025-04-19,Mouse Gamer,Periféricos,5,150,750,PIX,Maria Santos,1212
+555,2025-04-19,SSD 500GB,Hardware,4,350,1400,Débito,Pedro Oliveira,5459
+554,2025-04-19,Memória RAM 8GB,Hardware,4,200,800,Crédito,Pedro Oliveira,2441
+552,2025-04-21,Teclado Mecânico,Periféricos,3,300,900,PIX,Maria Santos,8848
+551,2025-04-21,Mousepad,Acessórios,3,50,150,Boleto,Pedro Oliveira,8284
+550,2025-04-21,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,Pedro Oliveira,9609
+545,2025-04-22,Mouse Gamer,Periféricos,4,150,600,Boleto,João Silva,9109
+546,2025-04-22,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Boleto,Ana Costa,3105
+549,2025-04-22,SSD 500GB,Hardware,1,350,350,Crédito,João Silva,7460
+548,2025-04-22,Adaptador HDMI,Acessórios,3,35,105,PIX,João Silva,2186
+547,2025-04-22,Hub USB,Acessórios,2,80,160,Débito,Maria Santos,9766
+544,2025-04-23,Memória RAM 8GB,Hardware,4,200,800,Crédito,Maria Santos,2507
+543,2025-04-23,Cabo HDMI,Acessórios,3,45,135,Boleto,Pedro Oliveira,1587
+542,2025-04-24,Teclado Mecânico,Periféricos,1,300,300,Crédito,João Silva,8858
+541,2025-04-24,Cabo HDMI,Acessórios,5,45,225,PIX,Ana Costa,4533
+540,2025-04-25,Headset 7.1,Periféricos,1,250,250,Boleto,Ana Costa,7027
+539,2025-04-25,Mouse Gamer,Periféricos,1,150,150,PIX,Pedro Oliveira,8385
+538,2025-04-25,Processador i7,Hardware,4,2200,8800,PIX,João Silva,5901
+537,2025-04-25,Mouse Gamer,Periféricos,1,150,150,PIX,João Silva,5532
+536,2025-04-25,Mouse Gamer,Periféricos,1,150,150,Crédito,João Silva,5119
+533,2025-04-26,Mouse Gamer,Periféricos,3,150,450,Boleto,Pedro Oliveira,7792
+532,2025-04-26,Suporte Monitor,Acessórios,3,120,360,Crédito,Ana Costa,2902
+535,2025-04-26,Webcam HD,Periféricos,1,180,180,Débito,João Silva,9156
+534,2025-04-26,Mouse Gamer,Periféricos,2,150,300,PIX,Ana Costa,2322
+531,2025-04-27,Cabo HDMI,Acessórios,4,45,180,Crédito,Maria Santos,5392
+530,2025-04-27,Cabo HDMI,Acessórios,1,45,45,PIX,Maria Santos,2524
+529,2025-04-28,Processador i7,Hardware,4,2200,8800,Boleto,Pedro Oliveira,8632
+528,2025-04-29,Memória RAM 8GB,Hardware,2,200,400,Boleto,João Silva,9048
+527,2025-04-29,Memória RAM 8GB,Hardware,5,200,1000,Boleto,Maria Santos,2520
+526,2025-04-30,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,Pedro Oliveira,8858
+525,2025-05-01,Adaptador HDMI,Acessórios,2,35,70,Boleto,Ana Costa,1765
+524,2025-05-01,Processador i7,Hardware,2,2200,4400,PIX,Maria Santos,7673
+523,2025-05-01,Suporte Monitor,Acessórios,2,120,240,Crédito,Maria Santos,6499
+522,2025-05-02,Suporte Monitor,Acessórios,4,120,480,PIX,Maria Santos,6096
+521,2025-05-02,Headset 7.1,Periféricos,1,250,250,PIX,João Silva,5659
+514,2025-05-03,Mousepad,Acessórios,5,50,250,PIX,Ana Costa,6411
+515,2025-05-03,Processador i5,Hardware,4,1200,4800,PIX,Pedro Oliveira,6183
+516,2025-05-03,Hub USB,Acessórios,1,80,80,Crédito,Pedro Oliveira,5307
+518,2025-05-03,Hub USB,Acessórios,3,80,240,Boleto,Ana Costa,5700
+519,2025-05-03,Adaptador HDMI,Acessórios,1,35,35,Débito,João Silva,9447
+520,2025-05-03,Cabo HDMI,Acessórios,3,45,135,Débito,Maria Santos,7004
+517,2025-05-03,Adaptador HDMI,Acessórios,4,35,140,Boleto,João Silva,7062
+513,2025-05-04,Mousepad,Acessórios,2,50,100,Crédito,Pedro Oliveira,8289
+512,2025-05-04,Mousepad,Acessórios,3,50,150,Boleto,Maria Santos,3317
+511,2025-05-04,Mousepad,Acessórios,4,50,200,Débito,Maria Santos,3195
+510,2025-05-04,Mouse Gamer,Periféricos,1,150,150,Débito,Pedro Oliveira,8100
+504,2025-05-05,Mouse Gamer,Periféricos,4,150,600,Crédito,Pedro Oliveira,2595
+505,2025-05-05,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,PIX,João Silva,5296
+508,2025-05-05,Mouse Gamer,Periféricos,1,150,150,Boleto,João Silva,1001
+507,2025-05-05,Processador i7,Hardware,4,2200,8800,Débito,Maria Santos,8136
+509,2025-05-05,Processador i5,Hardware,4,1200,4800,Boleto,João Silva,5019
+506,2025-05-05,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,João Silva,8005
+503,2025-05-06,Processador i5,Hardware,1,1200,1200,Crédito,João Silva,8976
+502,2025-05-06,Processador i7,Hardware,2,2200,4400,Débito,Pedro Oliveira,9067
+501,2025-05-06,Headset 7.1,Periféricos,5,250,1250,Débito,Maria Santos,1670
+500,2025-05-06,Hub USB,Acessórios,1,80,80,Débito,Ana Costa,7789
+498,2025-05-06,Mousepad,Acessórios,3,50,150,Débito,Ana Costa,3858
+499,2025-05-06,Headset 7.1,Periféricos,4,250,1000,Crédito,Ana Costa,3698
+497,2025-05-06,Headset 7.1,Periféricos,4,250,1000,Boleto,Pedro Oliveira,9623
+490,2025-05-07,Mouse Gamer,Periféricos,3,150,450,Boleto,Pedro Oliveira,8152
+491,2025-05-07,Headset 7.1,Periféricos,5,250,1250,Crédito,Maria Santos,5676
+492,2025-05-07,Cabo HDMI,Acessórios,2,45,90,Débito,João Silva,1516
+496,2025-05-07,Hub USB,Acessórios,2,80,160,PIX,Ana Costa,3321
+494,2025-05-07,Processador i5,Hardware,4,1200,4800,Crédito,Pedro Oliveira,1131
+495,2025-05-07,Teclado Mecânico,Periféricos,3,300,900,Débito,Ana Costa,9784
+493,2025-05-07,Mousepad,Acessórios,2,50,100,Crédito,Ana Costa,4686
+489,2025-05-08,Hub USB,Acessórios,3,80,240,Boleto,Maria Santos,6743
+488,2025-05-08,Suporte Monitor,Acessórios,1,120,120,PIX,Maria Santos,4151
+487,2025-05-09,Webcam HD,Periféricos,1,180,180,Crédito,João Silva,4139
+486,2025-05-09,Memória RAM 8GB,Hardware,5,200,1000,PIX,Ana Costa,3704
+485,2025-05-09,Webcam HD,Periféricos,2,180,360,Débito,Maria Santos,7763
+484,2025-05-09,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Ana Costa,2955
+483,2025-05-09,SSD 500GB,Hardware,4,350,1400,Crédito,Ana Costa,2257
+480,2025-05-10,Mousepad,Acessórios,5,50,250,Boleto,Ana Costa,6088
+482,2025-05-10,Headset 7.1,Periféricos,4,250,1000,Débito,Pedro Oliveira,6225
+481,2025-05-10,Processador i7,Hardware,3,2200,6600,Débito,Pedro Oliveira,3861
+479,2025-05-11,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Crédito,João Silva,8655
+478,2025-05-11,Hub USB,Acessórios,2,80,160,PIX,Maria Santos,2138
+477,2025-05-11,Mousepad,Acessórios,5,50,250,Boleto,João Silva,3189
+476,2025-05-12,Memória RAM 8GB,Hardware,5,200,1000,Débito,Ana Costa,1214
+475,2025-05-12,Processador i5,Hardware,1,1200,1200,Crédito,Ana Costa,4101
+474,2025-05-12,Teclado Mecânico,Periféricos,5,300,1500,Débito,Maria Santos,6349
+473,2025-05-12,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Débito,Maria Santos,7062
+472,2025-05-12,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Débito,João Silva,4802
+471,2025-05-13,"Monitor 24\"\"",Periféricos,4,900,3600,Débito,Pedro Oliveira,7944
+468,2025-05-14,Mouse Gamer,Periféricos,1,150,150,PIX,Pedro Oliveira,1969
+467,2025-05-14,Hub USB,Acessórios,5,80,400,Boleto,João Silva,8821
+470,2025-05-14,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Boleto,João Silva,3285
+469,2025-05-14,Mouse Gamer,Periféricos,3,150,450,Débito,Maria Santos,2905
+465,2025-05-15,Teclado Mecânico,Periféricos,3,300,900,Débito,Maria Santos,9136
+466,2025-05-15,Memória RAM 8GB,Hardware,2,200,400,PIX,Pedro Oliveira,1842
+464,2025-05-16,Headset 7.1,Periféricos,2,250,500,Crédito,Pedro Oliveira,6960
+463,2025-05-16,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Pedro Oliveira,8610
+462,2025-05-16,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Boleto,Ana Costa,6545
+461,2025-05-17,Hub USB,Acessórios,3,80,240,Crédito,Pedro Oliveira,3928
+460,2025-05-17,Headset 7.1,Periféricos,2,250,500,Crédito,Pedro Oliveira,3876
+459,2025-05-17,Memória RAM 8GB,Hardware,2,200,400,PIX,João Silva,6813
+458,2025-05-18,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,PIX,Pedro Oliveira,9733
+457,2025-05-18,Memória RAM 8GB,Hardware,4,200,800,Crédito,João Silva,9169
+456,2025-05-18,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Pedro Oliveira,4849
+455,2025-05-19,Teclado Mecânico,Periféricos,2,300,600,Crédito,João Silva,4672
+454,2025-05-20,Memória RAM 8GB,Hardware,1,200,200,Débito,Ana Costa,6710
+453,2025-05-21,Webcam HD,Periféricos,1,180,180,PIX,João Silva,7430
+452,2025-05-21,"Monitor 24\"\"",Periféricos,3,900,2700,Boleto,Maria Santos,1220
+451,2025-05-22,Teclado Mecânico,Periféricos,3,300,900,Débito,Ana Costa,3659
+450,2025-05-22,Hub USB,Acessórios,4,80,320,Crédito,Ana Costa,1106
+449,2025-05-23,Suporte Monitor,Acessórios,3,120,360,PIX,João Silva,8982
+448,2025-05-23,Memória RAM 8GB,Hardware,4,200,800,Débito,João Silva,8546
+447,2025-05-23,SSD 500GB,Hardware,1,350,350,Boleto,Pedro Oliveira,2803
+446,2025-05-24,Webcam HD,Periféricos,1,180,180,PIX,João Silva,2021
+445,2025-05-25,Processador i7,Hardware,4,2200,8800,PIX,Ana Costa,8553
+444,2025-05-25,Hub USB,Acessórios,5,80,400,PIX,Ana Costa,1068
+443,2025-05-25,Processador i7,Hardware,2,2200,4400,Crédito,Ana Costa,8997
+442,2025-05-26,Mousepad,Acessórios,5,50,250,PIX,Pedro Oliveira,2787
+441,2025-05-26,Memória RAM 8GB,Hardware,3,200,600,PIX,Pedro Oliveira,1679
+440,2025-05-28,"Monitor 24\"\"",Periféricos,3,900,2700,Débito,Pedro Oliveira,4783
+439,2025-05-28,Adaptador HDMI,Acessórios,2,35,70,Boleto,Ana Costa,8349
+437,2025-05-29,Suporte Monitor,Acessórios,4,120,480,PIX,Pedro Oliveira,6381
+438,2025-05-29,"Monitor 24\"\"",Periféricos,3,900,2700,Boleto,Pedro Oliveira,6599
+433,2025-05-30,Cabo HDMI,Acessórios,4,45,180,Crédito,Pedro Oliveira,8303
+436,2025-05-30,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Débito,Pedro Oliveira,4625
+435,2025-05-30,Processador i5,Hardware,3,1200,3600,Crédito,João Silva,1513
+434,2025-05-30,Suporte Monitor,Acessórios,3,120,360,Débito,Pedro Oliveira,5177
+431,2025-05-31,Mouse Gamer,Periféricos,3,150,450,Débito,Ana Costa,6272
+430,2025-05-31,Memória RAM 8GB,Hardware,5,200,1000,Débito,Ana Costa,5601
+432,2025-05-31,Adaptador HDMI,Acessórios,5,35,175,PIX,Ana Costa,1458
+429,2025-06-01,Processador i5,Hardware,3,1200,3600,PIX,Pedro Oliveira,7479
+428,2025-06-01,Adaptador HDMI,Acessórios,5,35,175,Boleto,Ana Costa,1013
+427,2025-06-01,Mousepad,Acessórios,1,50,50,Débito,Maria Santos,3205
+426,2025-06-01,Headset 7.1,Periféricos,4,250,1000,Débito,Maria Santos,2325
+425,2025-06-01,Suporte Monitor,Acessórios,5,120,600,Boleto,Ana Costa,7349
+424,2025-06-01,Processador i7,Hardware,5,2200,11000,PIX,João Silva,3389
+423,2025-06-02,Headset 7.1,Periféricos,2,250,500,PIX,Pedro Oliveira,8122
+419,2025-06-03,Suporte Monitor,Acessórios,3,120,360,Boleto,Pedro Oliveira,1814
+422,2025-06-03,Headset 7.1,Periféricos,3,250,750,Crédito,Ana Costa,8973
+421,2025-06-03,Teclado Mecânico,Periféricos,2,300,600,Débito,Maria Santos,2158
+420,2025-06-03,Suporte Monitor,Acessórios,1,120,120,Crédito,Pedro Oliveira,1706
+418,2025-06-04,Processador i7,Hardware,2,2200,4400,Débito,Ana Costa,4553
+417,2025-06-04,Adaptador HDMI,Acessórios,4,35,140,Crédito,Maria Santos,3094
+416,2025-06-04,Suporte Monitor,Acessórios,5,120,600,Débito,Ana Costa,1553
+415,2025-06-06,Webcam HD,Periféricos,3,180,540,Débito,João Silva,9770
+414,2025-06-06,Cabo HDMI,Acessórios,5,45,225,Boleto,Ana Costa,1645
+413,2025-06-06,Mousepad,Acessórios,3,50,150,PIX,João Silva,2169
+408,2025-06-07,Memória RAM 8GB,Hardware,5,200,1000,Débito,Pedro Oliveira,1432
+412,2025-06-07,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Boleto,Maria Santos,6232
+411,2025-06-07,Suporte Monitor,Acessórios,4,120,480,Débito,Ana Costa,7968
+410,2025-06-07,Suporte Monitor,Acessórios,5,120,600,PIX,Pedro Oliveira,3760
+409,2025-06-07,Cabo HDMI,Acessórios,5,45,225,Boleto,Pedro Oliveira,9500
+406,2025-06-08,"Monitor 24\"\"",Periféricos,4,900,3600,Crédito,Maria Santos,3307
+407,2025-06-08,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,João Silva,8340
+405,2025-06-09,Processador i5,Hardware,4,1200,4800,Crédito,João Silva,1420
+404,2025-06-09,Processador i5,Hardware,1,1200,1200,Crédito,Ana Costa,7577
+403,2025-06-09,Memória RAM 8GB,Hardware,3,200,600,Boleto,João Silva,1851
+402,2025-06-10,Processador i5,Hardware,1,1200,1200,Crédito,João Silva,3341
+401,2025-06-10,Webcam HD,Periféricos,4,180,720,Débito,Maria Santos,4088
+400,2025-06-10,Webcam HD,Periféricos,3,180,540,PIX,João Silva,6907
+399,2025-06-10,Cabo HDMI,Acessórios,4,45,180,Débito,Pedro Oliveira,6150
+398,2025-06-11,Memória RAM 8GB,Hardware,2,200,400,Débito,Maria Santos,8252
+397,2025-06-11,Adaptador HDMI,Acessórios,3,35,105,Débito,João Silva,8240
+396,2025-06-12,Adaptador HDMI,Acessórios,3,35,105,Boleto,Ana Costa,4662
+395,2025-06-12,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Crédito,Pedro Oliveira,6859
+394,2025-06-13,Mouse Gamer,Periféricos,3,150,450,Crédito,Maria Santos,3943
+393,2025-06-13,Mousepad,Acessórios,1,50,50,Boleto,Pedro Oliveira,4311
+392,2025-06-13,Mouse Gamer,Periféricos,4,150,600,Crédito,Pedro Oliveira,9032
+391,2025-06-13,Mousepad,Acessórios,5,50,250,Boleto,Pedro Oliveira,7991
+390,2025-06-14,Processador i5,Hardware,4,1200,4800,PIX,Maria Santos,4092
+389,2025-06-15,Hub USB,Acessórios,5,80,400,Crédito,Maria Santos,3922
+388,2025-06-16,Teclado Mecânico,Periféricos,4,300,1200,Débito,Ana Costa,4291
+387,2025-06-16,Suporte Monitor,Acessórios,4,120,480,Crédito,João Silva,2567
+386,2025-06-16,Mouse Gamer,Periféricos,2,150,300,Crédito,Maria Santos,9622
+385,2025-06-16,Suporte Monitor,Acessórios,3,120,360,Crédito,Pedro Oliveira,7014
+384,2025-06-17,Mousepad,Acessórios,1,50,50,Boleto,Ana Costa,7276
+383,2025-06-17,Headset 7.1,Periféricos,4,250,1000,Boleto,João Silva,5969
+382,2025-06-17,Suporte Monitor,Acessórios,3,120,360,Boleto,João Silva,7965
+381,2025-06-17,Cabo HDMI,Acessórios,2,45,90,Boleto,Pedro Oliveira,6899
+380,2025-06-17,Hub USB,Acessórios,4,80,320,Débito,Ana Costa,5321
+379,2025-06-18,Suporte Monitor,Acessórios,1,120,120,Débito,Pedro Oliveira,2872
+378,2025-06-18,Webcam HD,Periféricos,1,180,180,Boleto,Ana Costa,1512
+377,2025-06-18,Memória RAM 8GB,Hardware,1,200,200,Boleto,Ana Costa,4719
+376,2025-06-18,Hub USB,Acessórios,3,80,240,PIX,Ana Costa,6892
+375,2025-06-19,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Crédito,João Silva,2885
+374,2025-06-19,Processador i7,Hardware,4,2200,8800,PIX,Maria Santos,1644
+371,2025-06-20,SSD 500GB,Hardware,3,350,1050,Boleto,Maria Santos,6966
+373,2025-06-20,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Débito,João Silva,7671
+372,2025-06-20,"Monitor 24\"\"",Periféricos,1,900,900,PIX,Ana Costa,2258
+370,2025-06-21,Webcam HD,Periféricos,1,180,180,Débito,Pedro Oliveira,8362
+369,2025-06-21,Mousepad,Acessórios,5,50,250,Crédito,Pedro Oliveira,6406
+368,2025-06-22,Suporte Monitor,Acessórios,1,120,120,PIX,Maria Santos,7301
+367,2025-06-23,Webcam HD,Periféricos,1,180,180,Crédito,Pedro Oliveira,7191
+366,2025-06-23,Mouse Gamer,Periféricos,5,150,750,PIX,João Silva,1951
+365,2025-06-24,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,Maria Santos,5625
+364,2025-06-25,Hub USB,Acessórios,2,80,160,Débito,João Silva,3436
+363,2025-06-25,Processador i5,Hardware,2,1200,2400,Boleto,Ana Costa,7362
+362,2025-06-26,Processador i7,Hardware,1,2200,2200,PIX,Ana Costa,5756
+361,2025-06-26,"Monitor 24\"\"",Periféricos,5,900,4500,Débito,Maria Santos,3253
+358,2025-06-27,Mouse Gamer,Periféricos,5,150,750,Crédito,Pedro Oliveira,5548
+360,2025-06-27,Adaptador HDMI,Acessórios,2,35,70,Boleto,Maria Santos,6754
+359,2025-06-27,Memória RAM 8GB,Hardware,5,200,1000,Boleto,Pedro Oliveira,9412
+357,2025-06-28,SSD 500GB,Hardware,1,350,350,Crédito,Ana Costa,5194
+356,2025-06-29,Processador i7,Hardware,1,2200,2200,PIX,Pedro Oliveira,9425
+355,2025-06-30,"Monitor 24\"\"",Periféricos,1,900,900,PIX,João Silva,4289
+354,2025-06-30,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,Ana Costa,9089
+353,2025-06-30,Hub USB,Acessórios,2,80,160,Boleto,Pedro Oliveira,7237
+352,2025-06-30,Webcam HD,Periféricos,4,180,720,Débito,João Silva,4523
+351,2025-07-01,Suporte Monitor,Acessórios,3,120,360,Boleto,Maria Santos,4894
+350,2025-07-02,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Boleto,Pedro Oliveira,5733
+349,2025-07-02,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Boleto,Pedro Oliveira,5086
+348,2025-07-04,"Monitor 24\"\"",Periféricos,4,900,3600,PIX,João Silva,5434
+347,2025-07-05,Hub USB,Acessórios,4,80,320,Débito,Maria Santos,6989
+346,2025-07-05,Teclado Mecânico,Periféricos,4,300,1200,Boleto,Maria Santos,7109
+344,2025-07-06,SSD 500GB,Hardware,4,350,1400,Boleto,Ana Costa,1451
+345,2025-07-06,Adaptador HDMI,Acessórios,3,35,105,Débito,Pedro Oliveira,9780
+343,2025-07-07,SSD 500GB,Hardware,1,350,350,Débito,Maria Santos,3036
+342,2025-07-07,SSD 500GB,Hardware,5,350,1750,Crédito,Pedro Oliveira,6734
+341,2025-07-07,Suporte Monitor,Acessórios,4,120,480,PIX,Ana Costa,5469
+340,2025-07-08,Webcam HD,Periféricos,4,180,720,Débito,Ana Costa,8908
+339,2025-07-08,Teclado Mecânico,Periféricos,2,300,600,PIX,Ana Costa,8205
+338,2025-07-09,Teclado Mecânico,Periféricos,2,300,600,Crédito,João Silva,6165
+337,2025-07-09,Processador i7,Hardware,2,2200,4400,Débito,Pedro Oliveira,2820
+336,2025-07-09,Memória RAM 8GB,Hardware,5,200,1000,Crédito,Maria Santos,7416
+335,2025-07-09,"Monitor 24\"\"",Periféricos,1,900,900,Crédito,João Silva,8264
+334,2025-07-10,Processador i7,Hardware,5,2200,11000,Débito,João Silva,5117
+333,2025-07-10,Processador i5,Hardware,1,1200,1200,Débito,João Silva,6186
+332,2025-07-10,Processador i7,Hardware,2,2200,4400,Boleto,Ana Costa,2017
+329,2025-07-11,Adaptador HDMI,Acessórios,5,35,175,Crédito,João Silva,3900
+331,2025-07-11,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Ana Costa,6533
+330,2025-07-11,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Crédito,Ana Costa,2194
+328,2025-07-12,Suporte Monitor,Acessórios,3,120,360,Crédito,Ana Costa,8688
+327,2025-07-12,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Maria Santos,1765
+326,2025-07-13,Headset 7.1,Periféricos,1,250,250,Boleto,João Silva,2217
+325,2025-07-13,Webcam HD,Periféricos,3,180,540,Boleto,Ana Costa,8600
+324,2025-07-14,SSD 500GB,Hardware,3,350,1050,PIX,Pedro Oliveira,3351
+323,2025-07-14,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,Boleto,Maria Santos,2804
+322,2025-07-14,Processador i7,Hardware,2,2200,4400,Débito,João Silva,4963
+321,2025-07-15,Processador i7,Hardware,4,2200,8800,Boleto,Ana Costa,1466
+320,2025-07-15,Mouse Gamer,Periféricos,5,150,750,Boleto,Maria Santos,7344
+319,2025-07-16,SSD 500GB,Hardware,4,350,1400,Boleto,Ana Costa,1437
+318,2025-07-16,Memória RAM 8GB,Hardware,4,200,800,PIX,João Silva,4044
+317,2025-07-16,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Boleto,Maria Santos,2933
+316,2025-07-16,Webcam HD,Periféricos,1,180,180,Boleto,Ana Costa,6998
+313,2025-07-17,Headset 7.1,Periféricos,4,250,1000,Boleto,João Silva,5964
+312,2025-07-17,Suporte Monitor,Acessórios,3,120,360,Débito,Pedro Oliveira,3093
+315,2025-07-17,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Boleto,Maria Santos,6174
+314,2025-07-17,Processador i5,Hardware,3,1200,3600,PIX,Maria Santos,2361
+311,2025-07-18,"Monitor 24\"\"",Periféricos,4,900,3600,PIX,João Silva,5246
+310,2025-07-18,Teclado Mecânico,Periféricos,5,300,1500,Crédito,Maria Santos,8171
+309,2025-07-19,Processador i5,Hardware,2,1200,2400,Boleto,Ana Costa,7152
+308,2025-07-21,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Débito,Maria Santos,5367
+307,2025-07-21,Mousepad,Acessórios,3,50,150,PIX,Ana Costa,7067
+306,2025-07-22,Teclado Mecânico,Periféricos,1,300,300,Boleto,Maria Santos,7598
+305,2025-07-22,Memória RAM 8GB,Hardware,4,200,800,Débito,Ana Costa,2374
+304,2025-07-22,Mousepad,Acessórios,2,50,100,Crédito,Pedro Oliveira,1096
+303,2025-07-22,Teclado Mecânico,Periféricos,4,300,1200,Débito,Maria Santos,1767
+302,2025-07-22,"Monitor 24\"\"",Periféricos,2,900,1800,Débito,Ana Costa,6716
+298,2025-07-23,Hub USB,Acessórios,3,80,240,PIX,Pedro Oliveira,3473
+299,2025-07-23,"Monitor 24\"\"",Periféricos,2,900,1800,Boleto,João Silva,3655
+301,2025-07-23,Mousepad,Acessórios,1,50,50,Débito,Maria Santos,1837
+300,2025-07-23,Mouse Gamer,Periféricos,5,150,750,PIX,Ana Costa,8475
+297,2025-07-24,Suporte Monitor,Acessórios,3,120,360,Crédito,João Silva,1422
+296,2025-07-24,Memória RAM 8GB,Hardware,1,200,200,Débito,Maria Santos,8431
+295,2025-07-24,Mouse Gamer,Periféricos,2,150,300,Boleto,Maria Santos,2985
+294,2025-07-24,Memória RAM 8GB,Hardware,3,200,600,Crédito,Ana Costa,3179
+293,2025-07-25,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,PIX,Ana Costa,3836
+292,2025-07-26,Processador i7,Hardware,2,2200,4400,PIX,Ana Costa,4859
+291,2025-07-27,Adaptador HDMI,Acessórios,2,35,70,PIX,João Silva,9450
+290,2025-07-27,SSD 500GB,Hardware,5,350,1750,Débito,Pedro Oliveira,3303
+289,2025-07-28,SSD 500GB,Hardware,5,350,1750,Débito,Pedro Oliveira,2187
+288,2025-07-28,Hub USB,Acessórios,4,80,320,Débito,João Silva,4371
+287,2025-07-28,"Monitor 24\"\"",Periféricos,4,900,3600,Boleto,Ana Costa,8083
+283,2025-07-29,Headset 7.1,Periféricos,4,250,1000,PIX,João Silva,1310
+282,2025-07-29,Adaptador HDMI,Acessórios,4,35,140,Débito,João Silva,1886
+285,2025-07-29,Mouse Gamer,Periféricos,2,150,300,Crédito,Ana Costa,3837
+286,2025-07-29,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Débito,João Silva,6874
+284,2025-07-29,Mouse Gamer,Periféricos,5,150,750,Crédito,Pedro Oliveira,8053
+281,2025-07-31,Mouse Gamer,Periféricos,4,150,600,Boleto,Pedro Oliveira,3099
+280,2025-08-01,"Monitor 24\"\"",Periféricos,1,900,900,Crédito,Maria Santos,4157
+279,2025-08-01,Mousepad,Acessórios,3,50,150,Boleto,Ana Costa,3975
+278,2025-08-01,Cabo HDMI,Acessórios,1,45,45,Débito,Ana Costa,6698
+277,2025-08-01,Hub USB,Acessórios,5,80,400,Débito,Maria Santos,4930
+276,2025-08-02,Adaptador HDMI,Acessórios,2,35,70,PIX,Ana Costa,2179
+275,2025-08-02,Suporte Monitor,Acessórios,4,120,480,PIX,João Silva,6279
+274,2025-08-02,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Crédito,Maria Santos,8463
+273,2025-08-03,Processador i5,Hardware,1,1200,1200,Boleto,Maria Santos,6539
+272,2025-08-03,Suporte Monitor,Acessórios,5,120,600,PIX,Maria Santos,2049
+271,2025-08-03,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Ana Costa,4881
+268,2025-08-04,Cabo HDMI,Acessórios,3,45,135,PIX,Pedro Oliveira,8950
+267,2025-08-04,Memória RAM 8GB,Hardware,1,200,200,Boleto,Pedro Oliveira,2879
+270,2025-08-04,Mousepad,Acessórios,3,50,150,PIX,Pedro Oliveira,5820
+269,2025-08-04,"Monitor 24\"\"",Periféricos,2,900,1800,Débito,João Silva,1150
+266,2025-08-06,Cabo HDMI,Acessórios,1,45,45,Crédito,João Silva,3031
+265,2025-08-06,Webcam HD,Periféricos,4,180,720,Débito,João Silva,1601
+264,2025-08-06,Processador i5,Hardware,3,1200,3600,PIX,Maria Santos,2794
+263,2025-08-06,Processador i7,Hardware,3,2200,6600,Boleto,João Silva,7479
+262,2025-08-07,"Monitor 24\"\"",Periféricos,1,900,900,Boleto,Ana Costa,4257
+261,2025-08-07,Webcam HD,Periféricos,5,180,900,PIX,Ana Costa,5795
+260,2025-08-07,Teclado Mecânico,Periféricos,5,300,1500,Crédito,Pedro Oliveira,9974
+255,2025-08-08,Processador i5,Hardware,4,1200,4800,Boleto,Ana Costa,3781
+256,2025-08-08,Cabo HDMI,Acessórios,3,45,135,Crédito,João Silva,2993
+259,2025-08-08,Mousepad,Acessórios,2,50,100,PIX,Pedro Oliveira,7334
+258,2025-08-08,Mouse Gamer,Periféricos,1,150,150,PIX,João Silva,6440
+257,2025-08-08,Webcam HD,Periféricos,3,180,540,Débito,João Silva,6680
+254,2025-08-09,Headset 7.1,Periféricos,3,250,750,PIX,Maria Santos,3214
+253,2025-08-10,"Monitor 24\"\"",Periféricos,4,900,3600,Boleto,João Silva,8880
+250,2025-08-11,Mousepad,Acessórios,2,50,100,Boleto,Maria Santos,9869
+249,2025-08-11,Mouse Gamer,Periféricos,5,150,750,Crédito,Ana Costa,1491
+252,2025-08-11,Headset 7.1,Periféricos,2,250,500,Boleto,Ana Costa,4893
+251,2025-08-11,Mousepad,Acessórios,5,50,250,PIX,Pedro Oliveira,3049
+247,2025-08-12,Processador i5,Hardware,1,1200,1200,PIX,Pedro Oliveira,7764
+248,2025-08-12,Processador i7,Hardware,2,2200,4400,PIX,Ana Costa,3559
+245,2025-08-13,Processador i7,Hardware,5,2200,11000,Boleto,João Silva,2159
+246,2025-08-13,Memória RAM 8GB,Hardware,1,200,200,Débito,Pedro Oliveira,1935
+244,2025-08-14,Webcam HD,Periféricos,2,180,360,Crédito,Ana Costa,9977
+243,2025-08-14,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Débito,Maria Santos,4773
+242,2025-08-15,Headset 7.1,Periféricos,3,250,750,Boleto,Pedro Oliveira,5527
+241,2025-08-15,Memória RAM 8GB,Hardware,2,200,400,PIX,Ana Costa,9027
+240,2025-08-15,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,João Silva,6960
+239,2025-08-16,Adaptador HDMI,Acessórios,3,35,105,Crédito,Ana Costa,7654
+238,2025-08-16,Processador i7,Hardware,1,2200,2200,PIX,Pedro Oliveira,3500
+237,2025-08-16,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,PIX,Ana Costa,4596
+236,2025-08-17,Adaptador HDMI,Acessórios,1,35,35,PIX,Pedro Oliveira,5134
+235,2025-08-17,Suporte Monitor,Acessórios,3,120,360,Débito,Maria Santos,7737
+232,2025-08-18,Cabo HDMI,Acessórios,3,45,135,Boleto,Ana Costa,2479
+234,2025-08-18,Memória RAM 8GB,Hardware,1,200,200,Boleto,Pedro Oliveira,6086
+233,2025-08-18,Processador i7,Hardware,2,2200,4400,Boleto,Ana Costa,1828
+231,2025-08-19,Mouse Gamer,Periféricos,4,150,600,Débito,Pedro Oliveira,6904
+230,2025-08-19,Mousepad,Acessórios,5,50,250,PIX,Maria Santos,4181
+229,2025-08-19,Processador i7,Hardware,4,2200,8800,Boleto,João Silva,7104
+228,2025-08-19,Suporte Monitor,Acessórios,2,120,240,Boleto,João Silva,6236
+227,2025-08-19,Suporte Monitor,Acessórios,3,120,360,Boleto,Pedro Oliveira,9244
+226,2025-08-19,Teclado Mecânico,Periféricos,2,300,600,Débito,Ana Costa,8548
+225,2025-08-20,Processador i5,Hardware,2,1200,2400,Crédito,Maria Santos,9717
+224,2025-08-20,Cabo HDMI,Acessórios,4,45,180,Boleto,João Silva,7644
+223,2025-08-20,Cabo HDMI,Acessórios,5,45,225,Débito,Ana Costa,5507
+222,2025-08-21,Hub USB,Acessórios,1,80,80,Crédito,Maria Santos,3013
+221,2025-08-21,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Crédito,Ana Costa,3417
+220,2025-08-21,Suporte Monitor,Acessórios,4,120,480,Débito,Pedro Oliveira,3186
+218,2025-08-22,Mousepad,Acessórios,3,50,150,Débito,Pedro Oliveira,3134
+219,2025-08-22,Teclado Mecânico,Periféricos,3,300,900,Crédito,Ana Costa,2569
+215,2025-08-23,Mousepad,Acessórios,2,50,100,Boleto,Ana Costa,7295
+217,2025-08-23,Mousepad,Acessórios,3,50,150,PIX,Pedro Oliveira,1259
+216,2025-08-23,Processador i5,Hardware,1,1200,1200,Boleto,Pedro Oliveira,4501
+214,2025-08-24,Processador i7,Hardware,2,2200,4400,Débito,Ana Costa,8591
+213,2025-08-24,Processador i5,Hardware,3,1200,3600,Boleto,Ana Costa,6316
+212,2025-08-24,"Monitor 24\"\"",Periféricos,5,900,4500,Débito,João Silva,9929
+211,2025-08-24,Adaptador HDMI,Acessórios,1,35,35,Débito,Pedro Oliveira,8719
+210,2025-08-24,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Ana Costa,6373
+209,2025-08-24,Mouse Gamer,Periféricos,2,150,300,Débito,João Silva,2847
+208,2025-08-25,Processador i5,Hardware,4,1200,4800,Crédito,Ana Costa,3668
+207,2025-08-25,Suporte Monitor,Acessórios,2,120,240,Boleto,Ana Costa,4090
+206,2025-08-25,Mousepad,Acessórios,1,50,50,PIX,Ana Costa,2566
+205,2025-08-26,SSD 500GB,Hardware,2,350,700,Crédito,Ana Costa,4321
+204,2025-08-26,Suporte Monitor,Acessórios,4,120,480,Boleto,Ana Costa,7688
+199,2025-08-27,Adaptador HDMI,Acessórios,2,35,70,Crédito,João Silva,4316
+200,2025-08-27,Processador i5,Hardware,3,1200,3600,PIX,João Silva,5292
+202,2025-08-27,Suporte Monitor,Acessórios,5,120,600,Boleto,Ana Costa,9943
+201,2025-08-27,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Maria Santos,1243
+203,2025-08-27,Webcam HD,Periféricos,5,180,900,Débito,Ana Costa,6034
+198,2025-08-28,Webcam HD,Periféricos,2,180,360,Débito,Pedro Oliveira,7714
+197,2025-08-28,SSD 500GB,Hardware,2,350,700,Crédito,Pedro Oliveira,1741
+196,2025-08-28,Mousepad,Acessórios,2,50,100,Débito,Maria Santos,2874
+195,2025-08-29,Suporte Monitor,Acessórios,1,120,120,Boleto,João Silva,5939
+194,2025-08-29,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Boleto,João Silva,5710
+193,2025-08-29,SSD 500GB,Hardware,1,350,350,Crédito,Ana Costa,8158
+190,2025-08-30,Adaptador HDMI,Acessórios,3,35,105,Crédito,Ana Costa,4856
+192,2025-08-30,Processador i5,Hardware,2,1200,2400,Crédito,Pedro Oliveira,5390
+191,2025-08-30,Suporte Monitor,Acessórios,4,120,480,Crédito,Ana Costa,4618
+187,2025-08-31,SSD 500GB,Hardware,5,350,1750,Crédito,João Silva,1548
+189,2025-08-31,Suporte Monitor,Acessórios,4,120,480,Boleto,João Silva,2926
+188,2025-08-31,Headset 7.1,Periféricos,3,250,750,PIX,Maria Santos,4785
+185,2025-09-01,Webcam HD,Periféricos,1,180,180,Débito,Maria Santos,5876
+184,2025-09-01,"Monitor 24\"\"",Periféricos,3,900,2700,PIX,Maria Santos,3786
+186,2025-09-01,Adaptador HDMI,Acessórios,3,35,105,Crédito,Maria Santos,2404
+183,2025-09-02,"Monitor 24\"\"",Periféricos,1,900,900,Crédito,Maria Santos,9458
+182,2025-09-03,Suporte Monitor,Acessórios,4,120,480,Boleto,Ana Costa,4149
+181,2025-09-03,Headset 7.1,Periféricos,3,250,750,PIX,João Silva,9472
+180,2025-09-03,Webcam HD,Periféricos,3,180,540,PIX,Pedro Oliveira,1584
+179,2025-09-04,Memória RAM 8GB,Hardware,2,200,400,Débito,João Silva,6542
+178,2025-09-04,Processador i5,Hardware,3,1200,3600,Crédito,Ana Costa,2135
+177,2025-09-04,Processador i5,Hardware,2,1200,2400,Crédito,João Silva,4341
+176,2025-09-04,Hub USB,Acessórios,1,80,80,Boleto,Pedro Oliveira,7408
+175,2025-09-05,Processador i5,Hardware,4,1200,4800,Boleto,Ana Costa,6120
+174,2025-09-05,Processador i7,Hardware,2,2200,4400,Crédito,João Silva,4257
+173,2025-09-05,Processador i7,Hardware,1,2200,2200,Boleto,Ana Costa,7505
+167,2025-09-08,Cabo HDMI,Acessórios,2,45,90,Débito,Maria Santos,8060
+168,2025-09-08,"Monitor 24\"\"",Periféricos,2,900,1800,Boleto,Ana Costa,9573
+171,2025-09-08,SSD 500GB,Hardware,2,350,700,Crédito,João Silva,4970
+170,2025-09-08,Suporte Monitor,Acessórios,1,120,120,Boleto,Ana Costa,4328
+169,2025-09-08,Cabo HDMI,Acessórios,5,45,225,Crédito,Ana Costa,7917
+172,2025-09-08,Hub USB,Acessórios,3,80,240,PIX,Pedro Oliveira,8856
+166,2025-09-10,Adaptador HDMI,Acessórios,4,35,140,Boleto,João Silva,1530
+165,2025-09-10,"Monitor 24\"\"",Periféricos,4,900,3600,Crédito,Maria Santos,3837
+164,2025-09-10,Webcam HD,Periféricos,5,180,900,PIX,João Silva,7379
+163,2025-09-11,"Monitor 24\"\"",Periféricos,2,900,1800,Boleto,Maria Santos,6667
+162,2025-09-11,Mouse Gamer,Periféricos,1,150,150,Débito,Ana Costa,6451
+161,2025-09-11,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,PIX,Ana Costa,1335
+157,2025-09-12,Teclado Mecânico,Periféricos,2,300,600,PIX,Ana Costa,3536
+160,2025-09-12,Adaptador HDMI,Acessórios,5,35,175,Débito,Maria Santos,5174
+159,2025-09-12,Mousepad,Acessórios,5,50,250,Débito,João Silva,6421
+158,2025-09-12,Mouse Gamer,Periféricos,3,150,450,Débito,Ana Costa,7064
+156,2025-09-13,Headset 7.1,Periféricos,2,250,500,Boleto,Maria Santos,3106
+154,2025-09-14,Processador i7,Hardware,4,2200,8800,Crédito,Ana Costa,4453
+153,2025-09-14,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Boleto,Pedro Oliveira,2348
+155,2025-09-14,SSD 500GB,Hardware,5,350,1750,Boleto,Pedro Oliveira,9547
+152,2025-09-15,SSD 500GB,Hardware,5,350,1750,Débito,João Silva,1064
+151,2025-09-15,Processador i7,Hardware,4,2200,8800,Débito,João Silva,2696
+150,2025-09-16,SSD 500GB,Hardware,2,350,700,Débito,João Silva,3940
+149,2025-09-16,Memória RAM 8GB,Hardware,3,200,600,Boleto,Maria Santos,2843
+148,2025-09-16,SSD 500GB,Hardware,5,350,1750,Crédito,Ana Costa,4591
+147,2025-09-16,Mousepad,Acessórios,4,50,200,PIX,Pedro Oliveira,7124
+144,2025-09-17,SSD 500GB,Hardware,3,350,1050,Boleto,Ana Costa,8286
+146,2025-09-17,Webcam HD,Periféricos,3,180,540,PIX,João Silva,9154
+145,2025-09-17,Headset 7.1,Periféricos,1,250,250,Boleto,Maria Santos,6300
+143,2025-09-18,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,PIX,João Silva,1771
+142,2025-09-19,Memória RAM 8GB,Hardware,5,200,1000,Boleto,Pedro Oliveira,9277
+141,2025-09-20,SSD 500GB,Hardware,5,350,1750,Débito,Pedro Oliveira,9481
+135,2025-09-22,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Boleto,Maria Santos,5846
+136,2025-09-22,Mouse Gamer,Periféricos,4,150,600,Crédito,Ana Costa,9035
+139,2025-09-22,SSD 500GB,Hardware,1,350,350,Débito,Maria Santos,6048
+138,2025-09-22,Processador i5,Hardware,1,1200,1200,Boleto,Ana Costa,5901
+140,2025-09-22,Headset 7.1,Periféricos,1,250,250,Crédito,Ana Costa,7364
+137,2025-09-22,Processador i7,Hardware,5,2200,11000,Crédito,Maria Santos,7897
+134,2025-09-23,Adaptador HDMI,Acessórios,4,35,140,Débito,Maria Santos,2501
+133,2025-09-24,Hub USB,Acessórios,2,80,160,Crédito,João Silva,6107
+132,2025-09-24,Webcam HD,Periféricos,5,180,900,Crédito,Maria Santos,2498
+131,2025-09-25,Memória RAM 8GB,Hardware,2,200,400,Crédito,Ana Costa,3172
+130,2025-09-25,Mouse Gamer,Periféricos,2,150,300,Boleto,Ana Costa,5964
+129,2025-09-25,Mousepad,Acessórios,2,50,100,PIX,Ana Costa,7757
+128,2025-09-26,"Monitor 24\"\"",Periféricos,3,900,2700,Crédito,Ana Costa,1545
+127,2025-09-26,Processador i7,Hardware,5,2200,11000,Débito,Pedro Oliveira,2683
+126,2025-09-26,Teclado Mecânico,Periféricos,2,300,600,Boleto,Maria Santos,7006
+122,2025-09-27,Processador i7,Hardware,1,2200,2200,PIX,Maria Santos,5276
+125,2025-09-27,Teclado Mecânico,Periféricos,2,300,600,Crédito,João Silva,6674
+124,2025-09-27,Mouse Gamer,Periféricos,1,150,150,Boleto,João Silva,3078
+123,2025-09-27,Headset 7.1,Periféricos,5,250,1250,Crédito,Maria Santos,8813
+120,2025-09-28,Headset 7.1,Periféricos,1,250,250,Boleto,Ana Costa,5977
+121,2025-09-28,Processador i5,Hardware,1,1200,1200,Crédito,Maria Santos,9076
+119,2025-09-29,Mousepad,Acessórios,1,50,50,Boleto,Maria Santos,1255
+118,2025-09-29,Placa de Vídeo RTX 3060,Hardware,4,2500,10000,Boleto,Ana Costa,9468
+117,2025-09-29,Mouse Gamer,Periféricos,3,150,450,PIX,João Silva,9575
+116,2025-09-29,Teclado Mecânico,Periféricos,1,300,300,Débito,Maria Santos,3092
+115,2025-09-29,Hub USB,Acessórios,3,80,240,PIX,Maria Santos,5145
+114,2025-09-29,Memória RAM 8GB,Hardware,2,200,400,Crédito,Ana Costa,7189
+113,2025-09-29,Processador i5,Hardware,2,1200,2400,PIX,João Silva,2650
+112,2025-09-30,SSD 500GB,Hardware,5,350,1750,Débito,Ana Costa,1491
+111,2025-09-30,Hub USB,Acessórios,4,80,320,Boleto,João Silva,4214
+110,2025-09-30,Mouse Gamer,Periféricos,4,150,600,Crédito,Ana Costa,9863
+105,2025-10-02,"Monitor 24\"\"",Periféricos,2,900,1800,PIX,Maria Santos,1832
+106,2025-10-02,SSD 500GB,Hardware,3,350,1050,PIX,João Silva,1192
+107,2025-10-02,Processador i7,Hardware,2,2200,4400,PIX,Maria Santos,9288
+109,2025-10-02,Webcam HD,Periféricos,5,180,900,Crédito,João Silva,7302
+108,2025-10-02,Processador i5,Hardware,4,1200,4800,Boleto,Pedro Oliveira,5982
+104,2025-10-03,Memória RAM 8GB,Hardware,3,200,600,PIX,Maria Santos,1318
+103,2025-10-04,Placa de Vídeo RTX 3060,Hardware,2,2500,5000,Crédito,João Silva,2052
+102,2025-10-05,Mousepad,Acessórios,5,50,250,Boleto,João Silva,9034
+101,2025-10-05,Teclado Mecânico,Periféricos,2,300,600,Crédito,Pedro Oliveira,7575
+100,2025-10-05,Webcam HD,Periféricos,5,180,900,Débito,João Silva,3459
+99,2025-10-05,Webcam HD,Periféricos,4,180,720,Boleto,João Silva,7394
+98,2025-10-05,Suporte Monitor,Acessórios,4,120,480,PIX,Ana Costa,2253
+97,2025-10-05,Adaptador HDMI,Acessórios,4,35,140,Boleto,João Silva,3413
+90,2025-10-06,Mousepad,Acessórios,2,50,100,Boleto,Ana Costa,2210
+91,2025-10-06,Processador i7,Hardware,3,2200,6600,Débito,João Silva,7384
+92,2025-10-06,Mouse Gamer,Periféricos,2,150,300,Débito,Maria Santos,9517
+93,2025-10-06,Suporte Monitor,Acessórios,3,120,360,Crédito,Maria Santos,3132
+95,2025-10-06,Headset 7.1,Periféricos,1,250,250,Crédito,João Silva,9672
+96,2025-10-06,Mouse Gamer,Periféricos,2,150,300,Débito,Ana Costa,6064
+94,2025-10-06,Teclado Mecânico,Periféricos,4,300,1200,Boleto,Ana Costa,5798
+89,2025-10-07,Headset 7.1,Periféricos,5,250,1250,Débito,Pedro Oliveira,5025
+88,2025-10-08,Cabo HDMI,Acessórios,1,45,45,PIX,Maria Santos,2882
+87,2025-10-08,SSD 500GB,Hardware,5,350,1750,Boleto,Maria Santos,8021
+86,2025-10-08,Adaptador HDMI,Acessórios,1,35,35,Crédito,Pedro Oliveira,6396
+85,2025-10-09,"Monitor 24\"\"",Periféricos,5,900,4500,Débito,Pedro Oliveira,3236
+84,2025-10-09,Processador i5,Hardware,4,1200,4800,Crédito,João Silva,4416
+83,2025-10-10,Hub USB,Acessórios,4,80,320,PIX,João Silva,4734
+82,2025-10-10,Mouse Gamer,Periféricos,1,150,150,Débito,Maria Santos,3315
+81,2025-10-10,Headset 7.1,Periféricos,3,250,750,Débito,João Silva,5350
+78,2025-10-12,Suporte Monitor,Acessórios,4,120,480,Crédito,Maria Santos,8932
+77,2025-10-12,Memória RAM 8GB,Hardware,3,200,600,Crédito,João Silva,8586
+80,2025-10-12,Mouse Gamer,Periféricos,5,150,750,Crédito,Pedro Oliveira,2953
+79,2025-10-12,Processador i7,Hardware,2,2200,4400,Crédito,João Silva,6579
+76,2025-10-13,Teclado Mecânico,Periféricos,4,300,1200,PIX,Pedro Oliveira,2710
+75,2025-10-13,Processador i5,Hardware,1,1200,1200,Crédito,Ana Costa,9054
+74,2025-10-14,Teclado Mecânico,Periféricos,2,300,600,Boleto,João Silva,7175
+73,2025-10-15,SSD 500GB,Hardware,4,350,1400,Crédito,João Silva,4457
+72,2025-10-16,Suporte Monitor,Acessórios,3,120,360,PIX,Ana Costa,5519
+71,2025-10-16,SSD 500GB,Hardware,1,350,350,Crédito,João Silva,8868
+70,2025-10-16,Teclado Mecânico,Periféricos,2,300,600,PIX,Ana Costa,7138
+69,2025-10-16,Mouse Gamer,Periféricos,2,150,300,Boleto,Ana Costa,8403
+68,2025-10-16,Placa de Vídeo RTX 3060,Hardware,3,2500,7500,Débito,Ana Costa,1189
+67,2025-10-17,Processador i5,Hardware,3,1200,3600,Crédito,Maria Santos,7070
+66,2025-10-17,Cabo HDMI,Acessórios,5,45,225,Crédito,Pedro Oliveira,2232
+65,2025-10-17,Processador i7,Hardware,3,2200,6600,Débito,Maria Santos,2864
+62,2025-10-18,Webcam HD,Periféricos,4,180,720,Débito,Maria Santos,5583
+61,2025-10-18,Processador i7,Hardware,3,2200,6600,Crédito,Pedro Oliveira,3142
+64,2025-10-18,Memória RAM 8GB,Hardware,3,200,600,Boleto,Ana Costa,6241
+63,2025-10-18,"Monitor 24\"\"",Periféricos,5,900,4500,Crédito,Pedro Oliveira,9710
+59,2025-10-19,Processador i5,Hardware,5,1200,6000,Boleto,Ana Costa,3430
+58,2025-10-19,Webcam HD,Periféricos,5,180,900,Crédito,Ana Costa,8336
+60,2025-10-19,Mousepad,Acessórios,2,50,100,PIX,Ana Costa,2961
+57,2025-10-20,Processador i5,Hardware,1,1200,1200,PIX,Maria Santos,7100
+56,2025-10-20,Mousepad,Acessórios,5,50,250,PIX,João Silva,3176
+55,2025-10-20,Cabo HDMI,Acessórios,3,45,135,Crédito,Ana Costa,9786
+54,2025-10-20,Processador i7,Hardware,2,2200,4400,Boleto,João Silva,4015
+53,2025-10-20,SSD 500GB,Hardware,2,350,700,Boleto,Ana Costa,7702
+52,2025-10-20,"Monitor 24\"\"",Periféricos,2,900,1800,Crédito,Ana Costa,5559
+51,2025-10-21,Adaptador HDMI,Acessórios,4,35,140,Débito,Maria Santos,2016
+50,2025-10-22,"Monitor 24\"\"",Periféricos,1,900,900,PIX,Pedro Oliveira,2077
+49,2025-10-22,Mousepad,Acessórios,1,50,50,PIX,Ana Costa,1622
+47,2025-10-23,Suporte Monitor,Acessórios,4,120,480,PIX,Ana Costa,5919
+48,2025-10-23,Processador i5,Hardware,4,1200,4800,PIX,Maria Santos,8956
+45,2025-10-24,Headset 7.1,Periféricos,5,250,1250,Crédito,Maria Santos,2373
+44,2025-10-24,Memória RAM 8GB,Hardware,2,200,400,Crédito,Maria Santos,1209
+43,2025-10-24,Mouse Gamer,Periféricos,5,150,750,Boleto,João Silva,2710
+42,2025-10-24,Suporte Monitor,Acessórios,3,120,360,Débito,Ana Costa,1221
+41,2025-10-24,Webcam HD,Periféricos,2,180,360,Crédito,Maria Santos,8721
+40,2025-10-24,Suporte Monitor,Acessórios,2,120,240,Boleto,Pedro Oliveira,5228
+39,2025-10-24,Teclado Mecânico,Periféricos,4,300,1200,PIX,Pedro Oliveira,3231
+46,2025-10-24,Cabo HDMI,Acessórios,5,45,225,PIX,Pedro Oliveira,6614
+38,2025-10-25,SSD 500GB,Hardware,2,350,700,PIX,João Silva,4012
+37,2025-10-25,Webcam HD,Periféricos,3,180,540,PIX,Ana Costa,1353
+36,2025-10-25,Teclado Mecânico,Periféricos,4,300,1200,PIX,Maria Santos,6821
+35,2025-10-25,Webcam HD,Periféricos,4,180,720,Crédito,João Silva,4412
+34,2025-10-25,Placa de Vídeo RTX 3060,Hardware,5,2500,12500,Boleto,João Silva,7554
+30,2025-10-26,Teclado Mecânico,Periféricos,5,300,1500,Boleto,Pedro Oliveira,6728
+31,2025-10-26,Mousepad,Acessórios,4,50,200,Crédito,Ana Costa,6437
+33,2025-10-26,Teclado Mecânico,Periféricos,2,300,600,Boleto,Maria Santos,5483
+32,2025-10-26,Mousepad,Acessórios,3,50,150,Débito,Ana Costa,8189
+29,2025-10-27,Adaptador HDMI,Acessórios,4,35,140,Crédito,Maria Santos,9344
+28,2025-10-27,Mouse Gamer,Periféricos,4,150,600,PIX,João Silva,8606
+27,2025-10-27,Mousepad,Acessórios,5,50,250,PIX,Ana Costa,9404
+26,2025-10-27,Teclado Mecânico,Periféricos,3,300,900,Boleto,Maria Santos,8364
+25,2025-10-27,Mousepad,Acessórios,5,50,250,Crédito,Pedro Oliveira,8463
+24,2025-10-27,Memória RAM 8GB,Hardware,2,200,400,Débito,Maria Santos,7276
+23,2025-10-27,Memória RAM 8GB,Hardware,2,200,400,Crédito,Ana Costa,6756
+22,2025-10-28,"Monitor 24\"\"",Periféricos,2,900,1800,Boleto,Ana Costa,5889
+21,2025-10-28,Processador i7,Hardware,5,2200,11000,Boleto,João Silva,8022
+20,2025-10-28,Adaptador HDMI,Acessórios,4,35,140,Boleto,Ana Costa,6786
+19,2025-10-28,Memória RAM 8GB,Hardware,3,200,600,Boleto,João Silva,4284
+18,2025-10-29,Cabo HDMI,Acessórios,2,45,90,Débito,Maria Santos,3095
+17,2025-10-30,Processador i7,Hardware,3,2200,6600,Débito,Pedro Oliveira,7387
+16,2025-10-30,Hub USB,Acessórios,3,80,240,Débito,Maria Santos,2590
+15,2025-10-31,Mouse Gamer,Periféricos,3,150,450,Débito,Pedro Oliveira,7544
+13,2025-11-01,"Monitor 24\"\"",Periféricos,5,900,4500,PIX,Ana Costa,8673
+12,2025-11-01,Memória RAM 8GB,Hardware,5,200,1000,Débito,João Silva,4176
+11,2025-11-01,Headset 7.1,Periféricos,5,250,1250,Boleto,Pedro Oliveira,1256
+14,2025-11-01,Processador i5,Hardware,3,1200,3600,Débito,Pedro Oliveira,8160
+10,2025-11-02,Teclado Mecânico,Periféricos,2,300,600,Boleto,Maria Santos,1800
+9,2025-11-02,Placa de Vídeo RTX 3060,Hardware,1,2500,2500,PIX,Pedro Oliveira,6471
+8,2025-11-02,Mouse Gamer,Periféricos,3,150,450,PIX,Ana Costa,6068
+7,2025-11-02,Teclado Mecânico,Periféricos,4,300,1200,PIX,Maria Santos,8343
+6,2025-11-02,Hub USB,Acessórios,2,80,160,Boleto,Ana Costa,2101
+5,2025-11-02,SSD 500GB,Hardware,2,350,700,Boleto,Ana Costa,7205
+4,2025-11-03,Teclado Mecânico,Periféricos,3,300,900,Boleto,Maria Santos,6667
+3,2025-11-03,Webcam HD,Periféricos,3,180,540,Débito,Maria Santos,5080
+2,2025-11-03,Mouse Gamer,Periféricos,2,150,300,PIX,Ana Costa,6738
+1,2025-11-03,Headset 7.1,Periféricos,2,250,500,Crédito,Ana Costa,8829

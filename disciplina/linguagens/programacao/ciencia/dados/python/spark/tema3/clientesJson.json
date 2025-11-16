@@ -1,0 +1,8 @@
+        {
+            "id": 1,
+            "nome": "Cliente_1",
+            "email": "cliente1@email.com",
+            "cpf": "925.992.106-92",
+            "data_nascimento": "1996-04-26",
+            "telefone": "(11) 99142-8715"
+        }

@@ -1,0 +1,1001 @@
+id_venda,id_produto,produto,quantidade,preco,data
+0,5,Smartwatch,2,467.29
+1,2,Smartphone,1,549.38
+2,1,Notebook,4,127.60
+3,4,Fone de Ouvido,5,912.79
+4,3,Tablet,4,767.73
+5,5,Smartwatch,1,124.41
+6,4,Fone de Ouvido,4,916.92
+7,2,Smartphone,3,281.13
+8,1,Notebook,1,193.91
+9,5,Smartwatch,4,534.83
+10,5,Smartwatch,3,781.52
+11,2,Smartphone,5,854.02
+12,2,Smartphone,1,493.70
+13,2,Smartphone,1,977.80
+14,3,Tablet,1,602.62
+15,4,Fone de Ouvido,4,238.85
+16,1,Notebook,2,450.78
+17,1,Notebook,2,313.27
+18,5,Smartwatch,1,346.17
+19,2,Smartphone,5,480.39
+20,3,Tablet,4,540.20
+21,3,Tablet,5,411.36
+22,3,Tablet,3,712.97
+23,4,Fone de Ouvido,4,974.39
+24,5,Smartwatch,1,479.27
+25,4,Fone de Ouvido,1,595.22
+26,1,Notebook,3,865.94
+27,1,Notebook,4,312.03
+28,5,Smartwatch,3,796.51
+29,5,Smartwatch,5,150.02
+30,5,Smartwatch,1,130.53
+31,1,Notebook,2,860.52
+32,2,Smartphone,1,191.93
+33,1,Notebook,1,800.41
+34,5,Smartwatch,3,639.47
+35,1,Notebook,1,633.04
+36,4,Fone de Ouvido,4,163.42
+37,5,Smartwatch,4,495.33
+38,2,Smartphone,3,145.00
+39,4,Fone de Ouvido,2,273.53
+40,4,Fone de Ouvido,5,184.58
+41,2,Smartphone,1,468.67
+42,2,Smartphone,4,791.11
+43,3,Tablet,5,337.72
+44,4,Fone de Ouvido,2,251.08
+45,3,Tablet,4,936.09
+46,2,Smartphone,2,330.67
+47,3,Tablet,1,564.64
+48,1,Notebook,5,695.28
+49,5,Smartwatch,5,490.84
+50,5,Smartwatch,2,778.06
+51,2,Smartphone,4,197.26
+52,4,Fone de Ouvido,2,666.53
+53,3,Tablet,5,700.35
+54,4,Fone de Ouvido,3,602.19
+55,2,Smartphone,5,639.91
+56,3,Tablet,5,632.01
+57,5,Smartwatch,1,972.35
+58,1,Notebook,2,985.73
+59,3,Tablet,1,400.77
+60,2,Smartphone,4,109.81
+61,2,Smartphone,1,568.06
+62,1,Notebook,2,372.14
+63,4,Fone de Ouvido,2,296.13
+64,1,Notebook,5,465.50
+65,5,Smartwatch,1,332.25
+66,2,Smartphone,3,615.53
+67,5,Smartwatch,4,163.87
+68,3,Tablet,2,305.99
+69,4,Fone de Ouvido,4,795.98
+70,2,Smartphone,5,798.14
+71,3,Tablet,2,453.29
+72,3,Tablet,3,190.96
+73,1,Notebook,4,892.76
+74,2,Smartphone,2,641.23
+75,5,Smartwatch,4,381.56
+76,5,Smartwatch,1,629.36
+77,4,Fone de Ouvido,5,425.20
+78,2,Smartphone,3,697.29
+79,5,Smartwatch,5,891.20
+80,2,Smartphone,5,186.10
+81,3,Tablet,5,231.63
+82,2,Smartphone,4,584.76
+83,1,Notebook,1,915.66
+84,1,Notebook,4,224.92
+85,5,Smartwatch,5,623.93
+86,2,Smartphone,5,872.77
+87,1,Notebook,4,555.03
+88,1,Notebook,1,193.17
+89,5,Smartwatch,1,851.77
+90,3,Tablet,4,100.34
+91,5,Smartwatch,4,872.50
+92,3,Tablet,1,702.12
+93,2,Smartphone,3,182.22
+94,5,Smartwatch,4,678.88
+95,4,Fone de Ouvido,1,134.34
+96,1,Notebook,3,421.38
+97,3,Tablet,3,291.43
+98,5,Smartwatch,2,983.19
+99,1,Notebook,1,164.91
+100,3,Tablet,4,826.82
+101,2,Smartphone,1,632.54
+102,1,Notebook,1,502.49
+103,4,Fone de Ouvido,3,262.73
+104,5,Smartwatch,3,289.97
+105,5,Smartwatch,2,584.72
+106,2,Smartphone,1,450.88
+107,2,Smartphone,2,606.80
+108,2,Smartphone,4,161.33
+109,1,Notebook,3,650.59
+110,3,Tablet,5,356.65
+111,1,Notebook,5,992.56
+112,3,Tablet,2,695.10
+113,3,Tablet,5,997.15
+114,2,Smartphone,5,673.25
+115,2,Smartphone,1,176.40
+116,2,Smartphone,2,205.21
+117,2,Smartphone,3,654.87
+118,4,Fone de Ouvido,1,908.32
+119,2,Smartphone,2,217.43
+120,2,Smartphone,5,880.07
+121,5,Smartwatch,5,625.19
+122,1,Notebook,3,580.50
+123,4,Fone de Ouvido,2,866.22
+124,4,Fone de Ouvido,5,176.58
+125,2,Smartphone,4,312.95
+126,5,Smartwatch,5,997.62
+127,3,Tablet,5,813.28
+128,4,Fone de Ouvido,5,450.50
+129,5,Smartwatch,3,787.81
+130,3,Tablet,3,770.18
+131,4,Fone de Ouvido,1,284.05
+132,4,Fone de Ouvido,2,258.93
+133,3,Tablet,3,661.32
+134,5,Smartwatch,4,947.69
+135,2,Smartphone,3,557.51
+136,3,Tablet,2,772.52
+137,2,Smartphone,2,493.38
+138,4,Fone de Ouvido,2,445.35
+139,4,Fone de Ouvido,4,994.65
+140,3,Tablet,5,695.37
+141,5,Smartwatch,1,524.67
+142,3,Tablet,1,202.68
+143,5,Smartwatch,2,970.13
+144,5,Smartwatch,1,291.52
+145,5,Smartwatch,4,352.52
+146,1,Notebook,4,618.64
+147,3,Tablet,4,419.31
+148,3,Tablet,4,410.84
+149,3,Tablet,2,650.49
+150,2,Smartphone,5,321.57
+151,1,Notebook,3,388.77
+152,2,Smartphone,2,454.46
+153,5,Smartwatch,4,716.02
+154,1,Notebook,1,320.21
+155,1,Notebook,5,848.16
+156,4,Fone de Ouvido,4,335.19
+157,4,Fone de Ouvido,3,340.79
+158,5,Smartwatch,2,176.84
+159,4,Fone de Ouvido,4,684.95
+160,5,Smartwatch,5,383.36
+161,4,Fone de Ouvido,5,714.11
+162,1,Notebook,1,237.21
+163,3,Tablet,5,973.88
+164,3,Tablet,1,177.15
+165,2,Smartphone,1,167.31
+166,1,Notebook,5,592.99
+167,3,Tablet,3,955.58
+168,4,Fone de Ouvido,3,921.71
+169,4,Fone de Ouvido,1,286.69
+170,3,Tablet,4,713.99
+171,1,Notebook,3,402.39
+172,4,Fone de Ouvido,4,142.55
+173,4,Fone de Ouvido,4,513.38
+174,5,Smartwatch,2,732.75
+175,4,Fone de Ouvido,5,851.41
+176,2,Smartphone,5,643.89
+177,4,Fone de Ouvido,4,899.79
+178,1,Notebook,1,715.17
+179,2,Smartphone,4,609.97
+180,3,Tablet,5,467.49
+181,1,Notebook,4,809.08
+182,5,Smartwatch,3,321.94
+183,1,Notebook,5,217.75
+184,2,Smartphone,5,800.24
+185,5,Smartwatch,1,454.48
+186,2,Smartphone,3,118.82
+187,2,Smartphone,3,329.55
+188,5,Smartwatch,1,741.14
+189,2,Smartphone,2,961.66
+190,2,Smartphone,2,207.07
+191,5,Smartwatch,5,730.51
+192,2,Smartphone,3,139.07
+193,3,Tablet,3,303.99
+194,4,Fone de Ouvido,5,424.27
+195,5,Smartwatch,1,354.89
+196,3,Tablet,4,738.29
+197,5,Smartwatch,2,414.76
+198,5,Smartwatch,5,140.22
+199,1,Notebook,1,727.73
+200,1,Notebook,2,321.80
+201,1,Notebook,4,677.03
+202,3,Tablet,5,188.38
+203,5,Smartwatch,1,372.75
+204,5,Smartwatch,2,343.49
+205,3,Tablet,4,894.64
+206,4,Fone de Ouvido,3,489.95
+207,2,Smartphone,1,244.85
+208,3,Tablet,2,486.57
+209,1,Notebook,2,504.92
+210,3,Tablet,5,428.36
+211,5,Smartwatch,3,305.73
+212,5,Smartwatch,2,184.12
+213,4,Fone de Ouvido,3,569.34
+214,1,Notebook,4,513.31
+215,1,Notebook,1,183.25
+216,5,Smartwatch,2,516.65
+217,5,Smartwatch,4,389.60
+218,5,Smartwatch,3,687.89
+219,3,Tablet,4,212.78
+220,3,Tablet,4,608.71
+221,1,Notebook,4,959.34
+222,4,Fone de Ouvido,4,558.10
+223,4,Fone de Ouvido,5,809.53
+224,1,Notebook,1,502.54
+225,4,Fone de Ouvido,1,106.10
+226,4,Fone de Ouvido,2,179.21
+227,2,Smartphone,3,510.73
+228,2,Smartphone,4,739.83
+229,1,Notebook,3,290.01
+230,5,Smartwatch,5,990.60
+231,3,Tablet,4,929.47
+232,2,Smartphone,4,117.38
+233,5,Smartwatch,3,460.97
+234,4,Fone de Ouvido,3,510.09
+235,2,Smartphone,5,832.89
+236,1,Notebook,1,341.03
+237,1,Notebook,2,538.04
+238,2,Smartphone,5,835.74
+239,5,Smartwatch,4,288.78
+240,3,Tablet,3,387.54
+241,3,Tablet,4,286.83
+242,1,Notebook,1,181.14
+243,2,Smartphone,2,424.20
+244,2,Smartphone,3,890.30
+245,1,Notebook,5,367.72
+246,1,Notebook,5,277.84
+247,5,Smartwatch,3,460.18
+248,3,Tablet,2,723.78
+249,3,Tablet,5,149.51
+250,1,Notebook,3,908.27
+251,3,Tablet,1,150.09
+252,5,Smartwatch,3,423.06
+253,4,Fone de Ouvido,3,682.99
+254,1,Notebook,4,693.45
+255,3,Tablet,1,153.20
+256,2,Smartphone,4,587.45
+257,4,Fone de Ouvido,1,869.26
+258,1,Notebook,5,527.48
+259,3,Tablet,1,931.85
+260,5,Smartwatch,1,187.09
+261,2,Smartphone,4,584.14
+262,1,Notebook,4,900.85
+263,4,Fone de Ouvido,5,528.63
+264,3,Tablet,2,360.68
+265,3,Tablet,5,869.07
+266,4,Fone de Ouvido,2,546.66
+267,4,Fone de Ouvido,2,656.65
+268,1,Notebook,4,330.01
+269,1,Notebook,3,188.21
+270,4,Fone de Ouvido,5,336.84
+271,3,Tablet,4,698.79
+272,1,Notebook,1,589.60
+273,3,Tablet,1,477.17
+274,1,Notebook,5,381.98
+275,4,Fone de Ouvido,5,802.74
+276,3,Tablet,5,424.98
+277,1,Notebook,3,339.56
+278,4,Fone de Ouvido,1,664.09
+279,4,Fone de Ouvido,1,368.27
+280,4,Fone de Ouvido,3,859.11
+281,3,Tablet,5,243.90
+282,5,Smartwatch,2,342.78
+283,2,Smartphone,3,604.85
+284,4,Fone de Ouvido,2,847.87
+285,4,Fone de Ouvido,5,479.60
+286,3,Tablet,4,380.46
+287,1,Notebook,2,242.12
+288,1,Notebook,2,750.15
+289,2,Smartphone,1,721.70
+290,1,Notebook,1,104.94
+291,5,Smartwatch,5,365.12
+292,5,Smartwatch,5,945.80
+293,1,Notebook,3,517.29
+294,3,Tablet,4,439.01
+295,2,Smartphone,5,513.12
+296,1,Notebook,1,519.32
+297,4,Fone de Ouvido,2,601.03
+298,4,Fone de Ouvido,4,322.43
+299,5,Smartwatch,2,848.68
+300,5,Smartwatch,1,108.45
+301,1,Notebook,3,648.53
+302,1,Notebook,2,158.50
+303,1,Notebook,2,684.83
+304,1,Notebook,5,126.25
+305,3,Tablet,5,261.77
+306,3,Tablet,4,165.41
+307,5,Smartwatch,2,597.65
+308,3,Tablet,3,282.34
+309,5,Smartwatch,5,419.95
+310,2,Smartphone,2,850.99
+311,5,Smartwatch,3,705.50
+312,5,Smartwatch,1,120.64
+313,5,Smartwatch,5,799.31
+314,5,Smartwatch,2,880.07
+315,2,Smartphone,2,507.37
+316,3,Tablet,3,333.13
+317,5,Smartwatch,4,486.48
+318,1,Notebook,1,511.79
+319,2,Smartphone,5,766.92
+320,5,Smartwatch,2,293.23
+321,2,Smartphone,3,239.21
+322,2,Smartphone,5,675.93
+323,1,Notebook,4,601.14
+324,1,Notebook,3,474.70
+325,1,Notebook,5,379.18
+326,1,Notebook,2,727.24
+327,1,Notebook,3,196.82
+328,2,Smartphone,2,922.41
+329,2,Smartphone,3,567.12
+330,3,Tablet,5,294.32
+331,3,Tablet,5,277.65
+332,2,Smartphone,5,176.15
+333,2,Smartphone,1,320.04
+334,5,Smartwatch,1,292.15
+335,3,Tablet,3,624.07
+336,5,Smartwatch,1,752.28
+337,4,Fone de Ouvido,4,688.08
+338,3,Tablet,3,450.93
+339,1,Notebook,4,390.37
+340,3,Tablet,5,649.40
+341,1,Notebook,2,229.81
+342,1,Notebook,5,981.01
+343,3,Tablet,5,958.48
+344,1,Notebook,3,918.06
+345,3,Tablet,4,343.76
+346,3,Tablet,1,447.77
+347,1,Notebook,3,743.90
+348,5,Smartwatch,2,773.13
+349,2,Smartphone,2,347.19
+350,4,Fone de Ouvido,5,850.23
+351,1,Notebook,5,815.85
+352,5,Smartwatch,3,113.94
+353,2,Smartphone,1,878.16
+354,2,Smartphone,1,941.31
+355,1,Notebook,5,199.39
+356,4,Fone de Ouvido,1,858.38
+357,4,Fone de Ouvido,4,930.05
+358,1,Notebook,2,734.63
+359,2,Smartphone,1,464.02
+360,5,Smartwatch,2,671.06
+361,4,Fone de Ouvido,1,127.12
+362,4,Fone de Ouvido,4,888.71
+363,3,Tablet,2,636.59
+364,4,Fone de Ouvido,2,166.79
+365,3,Tablet,2,671.12
+366,1,Notebook,3,693.72
+367,1,Notebook,3,349.82
+368,3,Tablet,1,821.66
+369,5,Smartwatch,3,247.60
+370,2,Smartphone,1,694.91
+371,1,Notebook,5,696.41
+372,4,Fone de Ouvido,1,372.37
+373,2,Smartphone,4,749.77
+374,2,Smartphone,3,898.54
+375,1,Notebook,2,854.45
+376,2,Smartphone,2,177.60
+377,5,Smartwatch,1,615.52
+378,1,Notebook,4,123.69
+379,4,Fone de Ouvido,2,774.01
+380,4,Fone de Ouvido,2,969.65
+381,2,Smartphone,2,392.01
+382,3,Tablet,3,772.62
+383,1,Notebook,5,448.26
+384,4,Fone de Ouvido,3,881.57
+385,4,Fone de Ouvido,4,860.33
+386,4,Fone de Ouvido,4,993.71
+387,2,Smartphone,3,868.53
+388,1,Notebook,2,949.65
+389,5,Smartwatch,1,343.32
+390,2,Smartphone,2,725.21
+391,1,Notebook,3,797.20
+392,4,Fone de Ouvido,5,924.74
+393,4,Fone de Ouvido,2,461.74
+394,5,Smartwatch,1,603.42
+395,3,Tablet,4,522.91
+396,3,Tablet,4,176.24
+397,3,Tablet,5,329.97
+398,1,Notebook,3,217.05
+399,3,Tablet,1,535.46
+400,5,Smartwatch,4,246.20
+401,1,Notebook,1,588.31
+402,3,Tablet,5,815.76
+403,5,Smartwatch,2,723.45
+404,2,Smartphone,1,905.78
+405,4,Fone de Ouvido,3,320.86
+406,2,Smartphone,1,588.80
+407,4,Fone de Ouvido,3,426.59
+408,5,Smartwatch,5,774.88
+409,1,Notebook,5,185.11
+410,4,Fone de Ouvido,2,601.06
+411,4,Fone de Ouvido,3,693.85
+412,4,Fone de Ouvido,1,449.44
+413,5,Smartwatch,4,655.08
+414,3,Tablet,1,161.35
+415,3,Tablet,3,633.24
+416,3,Tablet,2,392.99
+417,2,Smartphone,3,718.53
+418,5,Smartwatch,4,581.85
+419,4,Fone de Ouvido,3,985.50
+420,1,Notebook,5,927.11
+421,2,Smartphone,3,357.15
+422,4,Fone de Ouvido,2,845.79
+423,4,Fone de Ouvido,5,381.15
+424,2,Smartphone,5,226.76
+425,2,Smartphone,3,392.39
+426,1,Notebook,4,969.84
+427,4,Fone de Ouvido,2,190.47
+428,4,Fone de Ouvido,2,692.75
+429,1,Notebook,2,598.71
+430,2,Smartphone,2,630.54
+431,2,Smartphone,5,205.15
+432,5,Smartwatch,5,363.01
+433,3,Tablet,2,731.09
+434,1,Notebook,4,982.35
+435,2,Smartphone,5,138.47
+436,4,Fone de Ouvido,1,799.77
+437,2,Smartphone,1,423.39
+438,1,Notebook,4,649.46
+439,3,Tablet,2,471.64
+440,4,Fone de Ouvido,5,809.24
+441,2,Smartphone,2,196.08
+442,1,Notebook,1,445.04
+443,1,Notebook,3,855.23
+444,5,Smartwatch,1,168.34
+445,4,Fone de Ouvido,1,817.82
+446,5,Smartwatch,2,865.06
+447,1,Notebook,4,587.94
+448,2,Smartphone,4,826.19
+449,2,Smartphone,3,764.40
+450,1,Notebook,2,731.10
+451,1,Notebook,5,332.24
+452,2,Smartphone,5,744.74
+453,1,Notebook,2,380.62
+454,2,Smartphone,4,858.72
+455,5,Smartwatch,3,813.46
+456,3,Tablet,4,549.92
+457,4,Fone de Ouvido,2,430.31
+458,1,Notebook,2,139.78
+459,5,Smartwatch,1,634.66
+460,1,Notebook,3,121.13
+461,3,Tablet,3,150.76
+462,1,Notebook,4,291.21
+463,3,Tablet,1,938.47
+464,2,Smartphone,1,807.23
+465,5,Smartwatch,4,661.37
+466,5,Smartwatch,1,761.78
+467,5,Smartwatch,1,399.88
+468,4,Fone de Ouvido,4,448.26
+469,1,Notebook,1,359.24
+470,4,Fone de Ouvido,3,723.92
+471,4,Fone de Ouvido,3,799.00
+472,5,Smartwatch,3,267.24
+473,4,Fone de Ouvido,2,705.63
+474,3,Tablet,5,110.77
+475,5,Smartwatch,2,262.96
+476,1,Notebook,2,873.19
+477,4,Fone de Ouvido,3,386.66
+478,1,Notebook,5,377.29
+479,5,Smartwatch,2,935.31
+480,5,Smartwatch,1,957.77
+481,5,Smartwatch,1,166.66
+482,4,Fone de Ouvido,1,779.13
+483,4,Fone de Ouvido,1,963.57
+484,5,Smartwatch,2,287.14
+485,2,Smartphone,2,256.94
+486,4,Fone de Ouvido,1,428.08
+487,1,Notebook,2,361.62
+488,4,Fone de Ouvido,1,148.23
+489,4,Fone de Ouvido,5,156.15
+490,3,Tablet,4,486.40
+491,3,Tablet,1,330.63
+492,3,Tablet,1,895.76
+493,1,Notebook,4,386.72
+494,2,Smartphone,1,852.78
+495,3,Tablet,4,442.68
+496,4,Fone de Ouvido,5,539.25
+497,2,Smartphone,3,103.18
+498,5,Smartwatch,4,749.40
+499,5,Smartwatch,5,296.92
+500,2,Smartphone,2,589.17
+501,4,Fone de Ouvido,1,598.36
+502,5,Smartwatch,5,131.50
+503,2,Smartphone,1,885.81
+504,5,Smartwatch,1,569.71
+505,1,Notebook,4,485.26
+506,1,Notebook,2,338.44
+507,4,Fone de Ouvido,4,542.53
+508,3,Tablet,1,264.30
+509,3,Tablet,2,354.58
+510,3,Tablet,1,215.62
+511,1,Notebook,4,954.92
+512,1,Notebook,1,974.39
+513,4,Fone de Ouvido,4,223.01
+514,3,Tablet,2,426.22
+515,4,Fone de Ouvido,3,332.48
+516,3,Tablet,3,721.89
+517,5,Smartwatch,1,176.99
+518,4,Fone de Ouvido,1,674.70
+519,5,Smartwatch,2,878.50
+520,4,Fone de Ouvido,3,412.33
+521,2,Smartphone,2,271.27
+522,5,Smartwatch,2,279.19
+523,2,Smartphone,1,157.15
+524,5,Smartwatch,5,228.88
+525,1,Notebook,2,809.60
+526,4,Fone de Ouvido,5,400.02
+527,5,Smartwatch,4,903.99
+528,3,Tablet,5,875.43
+529,1,Notebook,3,574.23
+530,4,Fone de Ouvido,5,275.84
+531,2,Smartphone,3,282.63
+532,5,Smartwatch,4,880.98
+533,2,Smartphone,4,860.82
+534,5,Smartwatch,2,321.83
+535,2,Smartphone,4,315.49
+536,3,Tablet,4,701.45
+537,2,Smartphone,4,156.33
+538,4,Fone de Ouvido,2,741.84
+539,4,Fone de Ouvido,1,530.57
+540,1,Notebook,4,433.06
+541,5,Smartwatch,1,809.52
+542,4,Fone de Ouvido,5,542.87
+543,5,Smartwatch,1,546.22
+544,2,Smartphone,4,222.78
+545,3,Tablet,4,684.54
+546,3,Tablet,4,932.40
+547,1,Notebook,3,984.88
+548,2,Smartphone,3,478.44
+549,3,Tablet,5,652.37
+550,5,Smartwatch,4,797.36
+551,3,Tablet,1,534.32
+552,4,Fone de Ouvido,2,295.65
+553,5,Smartwatch,2,890.02
+554,3,Tablet,3,982.97
+555,3,Tablet,1,319.91
+556,3,Tablet,1,305.03
+557,4,Fone de Ouvido,5,665.92
+558,3,Tablet,5,531.26
+559,3,Tablet,2,763.92
+560,2,Smartphone,3,400.07
+561,1,Notebook,3,548.28
+562,2,Smartphone,3,444.14
+563,3,Tablet,5,584.15
+564,5,Smartwatch,2,999.76
+565,1,Notebook,2,273.66
+566,2,Smartphone,5,351.47
+567,3,Tablet,3,808.00
+568,4,Fone de Ouvido,3,547.38
+569,1,Notebook,4,354.62
+570,5,Smartwatch,2,809.56
+571,3,Tablet,3,523.63
+572,4,Fone de Ouvido,5,475.50
+573,5,Smartwatch,3,242.08
+574,2,Smartphone,3,324.55
+575,3,Tablet,3,545.48
+576,3,Tablet,5,225.08
+577,2,Smartphone,3,418.08
+578,2,Smartphone,4,384.63
+579,3,Tablet,3,632.32
+580,4,Fone de Ouvido,3,405.24
+581,5,Smartwatch,2,886.73
+582,3,Tablet,1,301.44
+583,3,Tablet,2,293.11
+584,5,Smartwatch,4,446.97
+585,4,Fone de Ouvido,2,442.65
+586,5,Smartwatch,3,781.83
+587,2,Smartphone,5,159.02
+588,1,Notebook,5,862.69
+589,1,Notebook,5,260.35
+590,5,Smartwatch,3,621.27
+591,1,Notebook,1,388.69
+592,3,Tablet,4,819.87
+593,5,Smartwatch,4,290.60
+594,2,Smartphone,4,409.77
+595,1,Notebook,4,146.20
+596,4,Fone de Ouvido,3,803.63
+597,2,Smartphone,3,474.42
+598,3,Tablet,3,421.09
+599,5,Smartwatch,3,447.73
+600,2,Smartphone,1,171.80
+601,2,Smartphone,4,962.74
+602,1,Notebook,2,689.40
+603,4,Fone de Ouvido,5,198.64
+604,3,Tablet,1,213.00
+605,3,Tablet,2,317.76
+606,5,Smartwatch,1,984.45
+607,2,Smartphone,4,499.34
+608,3,Tablet,5,843.18
+609,5,Smartwatch,4,233.91
+610,5,Smartwatch,1,881.72
+611,2,Smartphone,4,719.70
+612,3,Tablet,1,734.20
+613,4,Fone de Ouvido,5,950.24
+614,2,Smartphone,2,566.00
+615,2,Smartphone,3,298.28
+616,4,Fone de Ouvido,3,356.04
+617,5,Smartwatch,5,141.01
+618,5,Smartwatch,4,737.40
+619,5,Smartwatch,2,737.95
+620,1,Notebook,1,512.76
+621,4,Fone de Ouvido,4,491.61
+622,4,Fone de Ouvido,3,453.72
+623,2,Smartphone,2,559.68
+624,2,Smartphone,1,259.77
+625,5,Smartwatch,3,723.82
+626,3,Tablet,3,994.80
+627,4,Fone de Ouvido,5,438.27
+628,2,Smartphone,2,552.25
+629,5,Smartwatch,5,221.28
+630,5,Smartwatch,3,965.47
+631,4,Fone de Ouvido,1,129.16
+632,2,Smartphone,3,843.93
+633,2,Smartphone,4,385.00
+634,2,Smartphone,3,251.71
+635,4,Fone de Ouvido,4,168.34
+636,4,Fone de Ouvido,1,970.10
+637,4,Fone de Ouvido,1,980.80
+638,2,Smartphone,3,942.10
+639,3,Tablet,5,385.76
+640,3,Tablet,3,691.69
+641,5,Smartwatch,2,633.17
+642,3,Tablet,1,899.19
+643,2,Smartphone,5,255.22
+644,2,Smartphone,3,293.15
+645,1,Notebook,1,646.83
+646,5,Smartwatch,4,391.04
+647,2,Smartphone,3,341.67
+648,1,Notebook,4,181.41
+649,4,Fone de Ouvido,2,705.12
+650,4,Fone de Ouvido,5,632.83
+651,1,Notebook,4,121.03
+652,2,Smartphone,2,892.80
+653,5,Smartwatch,3,822.24
+654,5,Smartwatch,3,843.88
+655,5,Smartwatch,5,845.60
+656,1,Notebook,2,103.33
+657,3,Tablet,3,435.69
+658,2,Smartphone,4,285.65
+659,4,Fone de Ouvido,2,114.62
+660,2,Smartphone,4,976.82
+661,3,Tablet,4,815.73
+662,1,Notebook,2,312.24
+663,5,Smartwatch,2,841.88
+664,4,Fone de Ouvido,4,256.33
+665,5,Smartwatch,2,225.00
+666,1,Notebook,4,713.17
+667,3,Tablet,2,224.07
+668,5,Smartwatch,4,901.95
+669,1,Notebook,2,479.90
+670,3,Tablet,4,891.87
+671,3,Tablet,1,352.93
+672,5,Smartwatch,3,399.55
+673,1,Notebook,5,195.81
+674,3,Tablet,5,905.36
+675,1,Notebook,4,432.43
+676,4,Fone de Ouvido,2,900.96
+677,1,Notebook,5,274.20
+678,3,Tablet,1,723.94
+679,3,Tablet,5,296.82
+680,1,Notebook,4,979.35
+681,2,Smartphone,5,576.71
+682,4,Fone de Ouvido,5,654.89
+683,5,Smartwatch,4,624.79
+684,5,Smartwatch,3,349.80
+685,5,Smartwatch,5,523.30
+686,1,Notebook,2,283.22
+687,1,Notebook,4,981.62
+688,1,Notebook,3,419.00
+689,2,Smartphone,5,942.84
+690,5,Smartwatch,5,688.45
+691,5,Smartwatch,5,527.51
+692,4,Fone de Ouvido,1,316.69
+693,4,Fone de Ouvido,2,883.04
+694,2,Smartphone,3,338.65
+695,2,Smartphone,4,194.70
+696,1,Notebook,5,705.15
+697,5,Smartwatch,1,900.35
+698,4,Fone de Ouvido,1,516.53
+699,3,Tablet,4,313.75
+700,3,Tablet,3,562.28
+701,3,Tablet,5,299.36
+702,1,Notebook,3,881.67
+703,1,Notebook,4,704.52
+704,5,Smartwatch,2,558.27
+705,3,Tablet,2,876.41
+706,3,Tablet,3,653.51
+707,3,Tablet,5,448.13
+708,4,Fone de Ouvido,3,491.71
+709,5,Smartwatch,2,148.70
+710,3,Tablet,2,703.27
+711,2,Smartphone,4,584.92
+712,2,Smartphone,4,162.51
+713,4,Fone de Ouvido,2,962.66
+714,3,Tablet,2,432.74
+715,3,Tablet,3,931.22
+716,5,Smartwatch,4,282.83
+717,4,Fone de Ouvido,3,910.36
+718,3,Tablet,4,333.16
+719,3,Tablet,2,540.15
+720,2,Smartphone,5,130.32
+721,5,Smartwatch,1,837.70
+722,4,Fone de Ouvido,3,459.34
+723,1,Notebook,5,688.97
+724,5,Smartwatch,5,528.77
+725,3,Tablet,2,508.38
+726,2,Smartphone,5,123.49
+727,2,Smartphone,2,784.20
+728,2,Smartphone,5,853.83
+729,3,Tablet,2,778.56
+730,3,Tablet,3,337.27
+731,3,Tablet,4,516.26
+732,3,Tablet,3,977.39
+733,4,Fone de Ouvido,3,785.30
+734,4,Fone de Ouvido,4,124.74
+735,4,Fone de Ouvido,3,684.51
+736,1,Notebook,5,243.00
+737,4,Fone de Ouvido,2,200.61
+738,1,Notebook,3,366.15
+739,2,Smartphone,4,611.81
+740,3,Tablet,1,408.17
+741,4,Fone de Ouvido,3,903.97
+742,2,Smartphone,5,559.98
+743,4,Fone de Ouvido,4,549.04
+744,5,Smartwatch,5,641.07
+745,1,Notebook,4,637.92
+746,5,Smartwatch,5,372.62
+747,5,Smartwatch,1,300.87
+748,3,Tablet,3,796.09
+749,2,Smartphone,5,453.61
+750,3,Tablet,1,743.43
+751,2,Smartphone,3,419.34
+752,5,Smartwatch,2,181.10
+753,3,Tablet,1,553.88
+754,4,Fone de Ouvido,5,908.05
+755,3,Tablet,3,838.33
+756,3,Tablet,1,147.67
+757,1,Notebook,1,699.71
+758,5,Smartwatch,2,337.33
+759,1,Notebook,5,160.62
+760,1,Notebook,4,181.65
+761,2,Smartphone,1,461.82
+762,5,Smartwatch,1,987.21
+763,1,Notebook,5,419.84
+764,2,Smartphone,3,841.27
+765,5,Smartwatch,3,185.16
+766,5,Smartwatch,3,356.10
+767,1,Notebook,2,377.78
+768,2,Smartphone,5,323.00
+769,5,Smartwatch,5,254.44
+770,3,Tablet,2,355.00
+771,3,Tablet,1,646.86
+772,3,Tablet,2,594.82
+773,3,Tablet,3,424.45
+774,5,Smartwatch,5,712.38
+775,4,Fone de Ouvido,1,706.40
+776,3,Tablet,1,892.36
+777,1,Notebook,3,576.10
+778,3,Tablet,3,982.57
+779,2,Smartphone,1,516.50
+780,5,Smartwatch,3,724.85
+781,3,Tablet,5,519.93
+782,1,Notebook,4,232.51
+783,5,Smartwatch,5,982.12
+784,1,Notebook,3,907.76
+785,4,Fone de Ouvido,3,947.83
+786,1,Notebook,4,735.84
+787,3,Tablet,1,225.10
+788,3,Tablet,5,858.41
+789,5,Smartwatch,2,812.05
+790,1,Notebook,3,444.05
+791,4,Fone de Ouvido,5,849.21
+792,5,Smartwatch,1,504.85
+793,5,Smartwatch,5,138.17
+794,5,Smartwatch,4,197.79
+795,2,Smartphone,5,638.03
+796,4,Fone de Ouvido,1,369.70
+797,3,Tablet,3,289.10
+798,1,Notebook,2,521.13
+799,4,Fone de Ouvido,5,209.27
+800,1,Notebook,2,876.05
+801,2,Smartphone,4,420.93
+802,5,Smartwatch,2,643.20
+803,1,Notebook,4,934.34
+804,4,Fone de Ouvido,5,653.72
+805,2,Smartphone,3,175.57
+806,5,Smartwatch,2,139.24
+807,3,Tablet,3,696.27
+808,1,Notebook,3,858.95
+809,1,Notebook,1,432.35
+810,2,Smartphone,4,908.77
+811,2,Smartphone,4,169.00
+812,1,Notebook,2,874.72
+813,3,Tablet,1,553.67
+814,1,Notebook,3,342.13
+815,3,Tablet,2,501.37
+816,3,Tablet,4,677.89
+817,2,Smartphone,3,623.10
+818,2,Smartphone,3,753.16
+819,5,Smartwatch,5,592.40
+820,5,Smartwatch,5,782.94
+821,2,Smartphone,3,747.26
+822,1,Notebook,5,736.03
+823,1,Notebook,5,477.57
+824,4,Fone de Ouvido,2,720.13
+825,3,Tablet,1,114.48
+826,3,Tablet,1,893.12
+827,1,Notebook,4,171.66
+828,1,Notebook,1,914.68
+829,5,Smartwatch,2,184.31
+830,2,Smartphone,5,588.97
+831,2,Smartphone,1,502.61
+832,4,Fone de Ouvido,2,948.28
+833,5,Smartwatch,1,225.81
+834,3,Tablet,2,944.59
+835,2,Smartphone,5,166.49
+836,2,Smartphone,1,251.24
+837,3,Tablet,2,658.27
+838,3,Tablet,1,846.01
+839,4,Fone de Ouvido,2,926.11
+840,5,Smartwatch,4,810.10
+841,4,Fone de Ouvido,2,256.17
+842,4,Fone de Ouvido,1,910.57
+843,4,Fone de Ouvido,3,835.18
+844,1,Notebook,1,736.80
+845,5,Smartwatch,5,247.02
+846,3,Tablet,5,621.96
+847,4,Fone de Ouvido,5,934.72
+848,2,Smartphone,1,143.81
+849,3,Tablet,3,449.01
+850,4,Fone de Ouvido,2,908.71
+851,3,Tablet,1,223.65
+852,1,Notebook,3,858.95
+853,1,Notebook,2,383.97
+854,1,Notebook,4,447.35
+855,5,Smartwatch,2,692.80
+856,2,Smartphone,1,814.31
+857,1,Notebook,3,591.88
+858,1,Notebook,1,625.77
+859,3,Tablet,5,924.84
+860,4,Fone de Ouvido,1,933.27
+861,1,Notebook,5,456.54
+862,2,Smartphone,1,794.52
+863,2,Smartphone,2,585.15
+864,3,Tablet,1,977.08
+865,2,Smartphone,1,242.96
+866,3,Tablet,5,539.51
+867,5,Smartwatch,2,287.95
+868,2,Smartphone,1,826.53
+869,3,Tablet,2,753.74
+870,3,Tablet,4,587.30
+871,1,Notebook,3,776.89
+872,2,Smartphone,5,991.43
+873,2,Smartphone,5,157.68
+874,1,Notebook,2,457.10
+875,4,Fone de Ouvido,2,490.09
+876,5,Smartwatch,5,824.86
+877,2,Smartphone,2,342.38
+878,4,Fone de Ouvido,5,862.75
+879,4,Fone de Ouvido,3,669.01
+880,4,Fone de Ouvido,2,301.44
+881,4,Fone de Ouvido,1,554.44
+882,3,Tablet,1,395.64
+883,5,Smartwatch,5,804.50
+884,4,Fone de Ouvido,2,970.08
+885,2,Smartphone,4,647.38
+886,5,Smartwatch,2,479.17
+887,4,Fone de Ouvido,1,680.37
+888,4,Fone de Ouvido,3,417.23
+889,3,Tablet,4,782.51
+890,2,Smartphone,5,406.07
+891,3,Tablet,3,773.35
+892,4,Fone de Ouvido,5,595.48
+893,5,Smartwatch,1,463.60
+894,3,Tablet,1,564.02
+895,3,Tablet,1,437.06
+896,4,Fone de Ouvido,2,305.80
+897,2,Smartphone,2,553.78
+898,1,Notebook,2,181.74
+899,3,Tablet,5,683.99
+900,4,Fone de Ouvido,1,397.94
+901,1,Notebook,1,263.90
+902,3,Tablet,3,323.48
+903,3,Tablet,4,135.64
+904,2,Smartphone,3,997.83
+905,1,Notebook,4,924.51
+906,5,Smartwatch,3,468.52
+907,2,Smartphone,3,117.48
+908,2,Smartphone,3,318.19
+909,2,Smartphone,5,385.17
+910,1,Notebook,2,594.76
+911,3,Tablet,3,879.35
+912,2,Smartphone,1,274.16
+913,2,Smartphone,1,837.59
+914,1,Notebook,4,113.47
+915,1,Notebook,3,540.32
+916,5,Smartwatch,4,282.09
+917,2,Smartphone,4,574.05
+918,3,Tablet,3,159.50
+919,5,Smartwatch,5,147.47
+920,5,Smartwatch,1,335.08
+921,4,Fone de Ouvido,1,530.36
+922,3,Tablet,5,857.15
+923,4,Fone de Ouvido,4,178.43
+924,1,Notebook,2,504.12
+925,4,Fone de Ouvido,3,384.92
+926,1,Notebook,4,474.57
+927,1,Notebook,4,789.73
+928,2,Smartphone,1,900.30
+929,5,Smartwatch,5,235.49
+930,2,Smartphone,1,318.84
+931,4,Fone de Ouvido,1,600.51
+932,5,Smartwatch,3,603.65
+933,4,Fone de Ouvido,4,646.23
+934,4,Fone de Ouvido,3,902.60
+935,5,Smartwatch,1,820.26
+936,5,Smartwatch,4,348.59
+937,3,Tablet,3,493.12
+938,2,Smartphone,2,401.65
+939,1,Notebook,2,542.33
+940,1,Notebook,1,498.86
+941,4,Fone de Ouvido,1,615.01
+942,3,Tablet,1,707.01
+943,5,Smartwatch,5,555.54
+944,4,Fone de Ouvido,3,567.65
+945,4,Fone de Ouvido,3,268.90
+946,5,Smartwatch,1,569.39
+947,3,Tablet,1,307.90
+948,3,Tablet,1,716.16
+949,4,Fone de Ouvido,5,494.48
+950,3,Tablet,5,618.85
+951,1,Notebook,3,183.83
+952,1,Notebook,5,686.15
+953,1,Notebook,5,175.64
+954,1,Notebook,2,402.97
+955,4,Fone de Ouvido,2,316.77
+956,4,Fone de Ouvido,5,424.64
+957,1,Notebook,3,784.65
+958,4,Fone de Ouvido,5,151.95
+959,4,Fone de Ouvido,4,684.82
+960,1,Notebook,1,450.19
+961,5,Smartwatch,1,718.99
+962,3,Tablet,1,653.97
+963,5,Smartwatch,3,460.20
+964,4,Fone de Ouvido,3,407.40
+965,5,Smartwatch,1,792.69
+966,2,Smartphone,3,662.58
+967,5,Smartwatch,5,552.93
+968,4,Fone de Ouvido,3,569.69
+969,4,Fone de Ouvido,4,955.97
+970,1,Notebook,2,763.71
+971,3,Tablet,5,719.40
+972,5,Smartwatch,3,558.86
+973,3,Tablet,2,653.14
+974,1,Notebook,4,288.39
+975,1,Notebook,2,987.44
+976,2,Smartphone,3,651.70
+977,5,Smartwatch,2,832.41
+978,1,Notebook,4,267.07
+979,3,Tablet,5,713.48
+980,2,Smartphone,1,254.34
+981,3,Tablet,1,302.75
+982,5,Smartwatch,2,230.58
+983,3,Tablet,2,441.65
+984,4,Fone de Ouvido,3,800.09
+985,2,Smartphone,3,306.75
+986,5,Smartwatch,3,171.27
+987,1,Notebook,3,601.67
+988,5,Smartwatch,1,279.77
+989,3,Tablet,3,369.47
+990,5,Smartwatch,4,766.42
+991,5,Smartwatch,4,742.90
+992,4,Fone de Ouvido,1,964.43
+993,4,Fone de Ouvido,3,641.12
+994,5,Smartwatch,2,533.71
+995,5,Smartwatch,5,470.84
+996,1,Notebook,3,347.00
+997,4,Fone de Ouvido,4,867.06
+998,2,Smartphone,1,490.91
+999,1,Notebook,1,407.91

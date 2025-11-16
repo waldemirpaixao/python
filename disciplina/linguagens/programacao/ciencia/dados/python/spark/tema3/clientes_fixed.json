@@ -1,0 +1,2904 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Cliente_1",
+            "email": "cliente1@email.com",
+            "cpf": "925.992.106-92",
+            "data_nascimento": "1996-04-26",
+            "telefone": "(11) 99142-8715",
+            "endereco": {
+                "rua": "Rua 67",
+                "numero": 766,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "45435-609"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 8685.95,
+                "ultima_compra": "2024-11-26"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Monitores",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 2,
+            "nome": "Cliente_2",
+            "email": "cliente2@email.com",
+            "cpf": "967.513.206-59",
+            "data_nascimento": "1989-01-01",
+            "telefone": "(11) 96739-3128",
+            "endereco": {
+                "rua": "Rua 20",
+                "numero": 518,
+                "bairro": "Jardim",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "28623-212"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 5495.97,
+                "ultima_compra": "2025-07-07"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 3,
+            "nome": "Cliente_3",
+            "email": "cliente3@email.com",
+            "cpf": "607.708.638-73",
+            "data_nascimento": "1956-11-28",
+            "telefone": "(11) 97734-1907",
+            "endereco": {
+                "rua": "Rua 23",
+                "numero": 68,
+                "bairro": "Boa Vista",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "21109-263"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 7450.36,
+                "ultima_compra": "2025-04-14"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 4,
+            "nome": "Cliente_4",
+            "email": "cliente4@email.com",
+            "cpf": "869.850.374-53",
+            "data_nascimento": "1966-03-09",
+            "telefone": "(11) 95883-6013",
+            "endereco": {
+                "rua": "Rua 18",
+                "numero": 421,
+                "bairro": "Santa Cruz",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "33816-971"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 8531.54,
+                "ultima_compra": "2024-12-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 5,
+            "nome": "Cliente_5",
+            "email": "cliente5@email.com",
+            "cpf": "146.606.347-77",
+            "data_nascimento": "1989-12-04",
+            "telefone": "(11) 94675-4814",
+            "endereco": {
+                "rua": "Rua 94",
+                "numero": 8,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "SP",
+                "cep": "50126-135"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 3620.59,
+                "ultima_compra": "2025-01-21"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 6,
+            "nome": "Cliente_6",
+            "email": "cliente6@email.com",
+            "cpf": "748.740.403-56",
+            "data_nascimento": "1984-06-22",
+            "telefone": "(11) 95196-7023",
+            "endereco": {
+                "rua": "Rua 4",
+                "numero": 522,
+                "bairro": "Centro",
+                "cidade": "Rio de Janeiro",
+                "estado": "SP",
+                "cep": "42457-244"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 2199.92,
+                "ultima_compra": "2025-02-06"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 7,
+            "nome": "Cliente_7",
+            "email": "cliente7@email.com",
+            "cpf": "120.102.704-45",
+            "data_nascimento": "1978-12-31",
+            "telefone": "(11) 91368-5397",
+            "endereco": {
+                "rua": "Rua 70",
+                "numero": 293,
+                "bairro": "Vila Nova",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "80897-871"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 9243.14,
+                "ultima_compra": "2025-04-14"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 8,
+            "nome": "Cliente_8",
+            "email": "cliente8@email.com",
+            "cpf": "655.799.345-92",
+            "data_nascimento": "1973-05-05",
+            "telefone": "(11) 97472-3850",
+            "endereco": {
+                "rua": "Rua 49",
+                "numero": 75,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "66950-962"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 6055.64,
+                "ultima_compra": "2025-06-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 9,
+            "nome": "Cliente_9",
+            "email": "cliente9@email.com",
+            "cpf": "782.194.990-88",
+            "data_nascimento": "1977-06-17",
+            "telefone": "(11) 94776-8907",
+            "endereco": {
+                "rua": "Rua 98",
+                "numero": 500,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "SP",
+                "cep": "78903-439"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 6297.78,
+                "ultima_compra": "2025-06-03"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 10,
+            "nome": "Cliente_10",
+            "email": "cliente10@email.com",
+            "cpf": "135.293.383-57",
+            "data_nascimento": "2003-09-08",
+            "telefone": "(11) 95439-5062",
+            "endereco": {
+                "rua": "Rua 48",
+                "numero": 361,
+                "bairro": "Vila Nova",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "44399-543"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 4541.26,
+                "ultima_compra": "2025-06-23"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 11,
+            "nome": "Cliente_11",
+            "email": "cliente11@email.com",
+            "cpf": "205.894.508-96",
+            "data_nascimento": "2004-10-18",
+            "telefone": "(11) 93193-2470",
+            "endereco": {
+                "rua": "Rua 63",
+                "numero": 877,
+                "bairro": "Santa Cruz",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "41297-923"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 4060.18,
+                "ultima_compra": "2025-08-14"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 12,
+            "nome": "Cliente_12",
+            "email": "cliente12@email.com",
+            "cpf": "877.815.695-59",
+            "data_nascimento": "1957-12-23",
+            "telefone": "(11) 97052-3116",
+            "endereco": {
+                "rua": "Rua 68",
+                "numero": 831,
+                "bairro": "Centro",
+                "cidade": "Curitiba",
+                "estado": "MG",
+                "cep": "27158-982"
+            },
+            "historico_compras": {
+                "total_compras": 6,
+                "valor_total_gasto": 5862.03,
+                "ultima_compra": "2025-05-22"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 13,
+            "nome": "Cliente_13",
+            "email": "cliente13@email.com",
+            "cpf": "241.974.330-23",
+            "data_nascimento": "1984-09-01",
+            "telefone": "(11) 94145-9007",
+            "endereco": {
+                "rua": "Rua 76",
+                "numero": 350,
+                "bairro": "Jardim",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "74303-912"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 4236.04,
+                "ultima_compra": "2025-02-03"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Monitores",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 14,
+            "nome": "Cliente_14",
+            "email": "cliente14@email.com",
+            "cpf": "274.746.754-18",
+            "data_nascimento": "1983-01-03",
+            "telefone": "(11) 92663-8804",
+            "endereco": {
+                "rua": "Rua 85",
+                "numero": 75,
+                "bairro": "Jardim",
+                "cidade": "Porto Alegre",
+                "estado": "RS",
+                "cep": "35877-445"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 7697.14,
+                "ultima_compra": "2025-04-03"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 15,
+            "nome": "Cliente_15",
+            "email": "cliente15@email.com",
+            "cpf": "861.118.648-22",
+            "data_nascimento": "1986-07-16",
+            "telefone": "(11) 94123-8324",
+            "endereco": {
+                "rua": "Rua 50",
+                "numero": 942,
+                "bairro": "Vila Nova",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "56134-879"
+            },
+            "historico_compras": {
+                "total_compras": 10,
+                "valor_total_gasto": 4815.24,
+                "ultima_compra": "2025-06-05"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 16,
+            "nome": "Cliente_16",
+            "email": "cliente16@email.com",
+            "cpf": "630.694.829-57",
+            "data_nascimento": "1997-12-04",
+            "telefone": "(11) 97083-1011",
+            "endereco": {
+                "rua": "Rua 9",
+                "numero": 819,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "13644-429"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 5999.03,
+                "ultima_compra": "2025-09-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 17,
+            "nome": "Cliente_17",
+            "email": "cliente17@email.com",
+            "cpf": "258.929.502-71",
+            "data_nascimento": "1971-01-19",
+            "telefone": "(11) 93277-8979",
+            "endereco": {
+                "rua": "Rua 55",
+                "numero": 576,
+                "bairro": "Boa Vista",
+                "cidade": "Porto Alegre",
+                "estado": "RS",
+                "cep": "88222-724"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 7285.8,
+                "ultima_compra": "2025-10-31"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 18,
+            "nome": "Cliente_18",
+            "email": "cliente18@email.com",
+            "cpf": "946.175.813-55",
+            "data_nascimento": "1962-08-06",
+            "telefone": "(11) 95167-4830",
+            "endereco": {
+                "rua": "Rua 24",
+                "numero": 929,
+                "bairro": "Santa Cruz",
+                "cidade": "Belo Horizonte",
+                "estado": "RJ",
+                "cep": "55160-420"
+            },
+            "historico_compras": {
+                "total_compras": 15,
+                "valor_total_gasto": 4481.37,
+                "ultima_compra": "2025-01-30"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 19,
+            "nome": "Cliente_19",
+            "email": "cliente19@email.com",
+            "cpf": "950.365.432-36",
+            "data_nascimento": "1977-12-27",
+            "telefone": "(11) 99447-7008",
+            "endereco": {
+                "rua": "Rua 19",
+                "numero": 29,
+                "bairro": "Santa Cruz",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "59958-848"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 138.55,
+                "ultima_compra": "2025-09-13"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 20,
+            "nome": "Cliente_20",
+            "email": "cliente20@email.com",
+            "cpf": "272.123.924-39",
+            "data_nascimento": "1975-02-14",
+            "telefone": "(11) 96916-6074",
+            "endereco": {
+                "rua": "Rua 36",
+                "numero": 303,
+                "bairro": "Santa Cruz",
+                "cidade": "Rio de Janeiro",
+                "estado": "MG",
+                "cep": "68332-602"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 4537.14,
+                "ultima_compra": "2025-06-26"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 21,
+            "nome": "Cliente_21",
+            "email": "cliente21@email.com",
+            "cpf": "143.555.387-74",
+            "data_nascimento": "1956-12-04",
+            "telefone": "(11) 93636-9137",
+            "endereco": {
+                "rua": "Rua 40",
+                "numero": 395,
+                "bairro": "Boa Vista",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "57871-956"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 1464.51,
+                "ultima_compra": "2025-10-14"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Periféricos",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 22,
+            "nome": "Cliente_22",
+            "email": "cliente22@email.com",
+            "cpf": "526.634.631-50",
+            "data_nascimento": "1978-07-18",
+            "telefone": "(11) 99884-1044",
+            "endereco": {
+                "rua": "Rua 79",
+                "numero": 288,
+                "bairro": "Centro",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "94369-927"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 3538.41,
+                "ultima_compra": "2024-11-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 23,
+            "nome": "Cliente_23",
+            "email": "cliente23@email.com",
+            "cpf": "878.745.140-22",
+            "data_nascimento": "1980-06-26",
+            "telefone": "(11) 97337-7170",
+            "endereco": {
+                "rua": "Rua 36",
+                "numero": 148,
+                "bairro": "Santa Cruz",
+                "cidade": "Curitiba",
+                "estado": "MG",
+                "cep": "69060-655"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 9391.31,
+                "ultima_compra": "2025-07-26"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 24,
+            "nome": "Cliente_24",
+            "email": "cliente24@email.com",
+            "cpf": "418.428.730-12",
+            "data_nascimento": "1970-03-23",
+            "telefone": "(11) 91954-4958",
+            "endereco": {
+                "rua": "Rua 100",
+                "numero": 722,
+                "bairro": "Santa Cruz",
+                "cidade": "Rio de Janeiro",
+                "estado": "SP",
+                "cep": "53641-748"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 3174.08,
+                "ultima_compra": "2024-11-20"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 25,
+            "nome": "Cliente_25",
+            "email": "cliente25@email.com",
+            "cpf": "346.868.714-16",
+            "data_nascimento": "2000-10-08",
+            "telefone": "(11) 98164-2667",
+            "endereco": {
+                "rua": "Rua 44",
+                "numero": 490,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "RJ",
+                "cep": "99561-909"
+            },
+            "historico_compras": {
+                "total_compras": 1,
+                "valor_total_gasto": 2770.85,
+                "ultima_compra": "2025-06-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 26,
+            "nome": "Cliente_26",
+            "email": "cliente26@email.com",
+            "cpf": "848.305.277-60",
+            "data_nascimento": "1982-07-30",
+            "telefone": "(11) 99436-1136",
+            "endereco": {
+                "rua": "Rua 79",
+                "numero": 262,
+                "bairro": "Jardim",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "83399-360"
+            },
+            "historico_compras": {
+                "total_compras": 10,
+                "valor_total_gasto": 3270.69,
+                "ultima_compra": "2025-04-09"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Periféricos",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 27,
+            "nome": "Cliente_27",
+            "email": "cliente27@email.com",
+            "cpf": "686.593.755-86",
+            "data_nascimento": "1972-07-15",
+            "telefone": "(11) 92119-8174",
+            "endereco": {
+                "rua": "Rua 86",
+                "numero": 143,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "MG",
+                "cep": "99093-352"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 2153.49,
+                "ultima_compra": "2025-11-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 28,
+            "nome": "Cliente_28",
+            "email": "cliente28@email.com",
+            "cpf": "291.926.877-69",
+            "data_nascimento": "1965-06-24",
+            "telefone": "(11) 93633-3092",
+            "endereco": {
+                "rua": "Rua 53",
+                "numero": 966,
+                "bairro": "Vila Nova",
+                "cidade": "Curitiba",
+                "estado": "RS",
+                "cep": "68904-516"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 184.96,
+                "ultima_compra": "2025-03-13"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 29,
+            "nome": "Cliente_29",
+            "email": "cliente29@email.com",
+            "cpf": "155.238.528-76",
+            "data_nascimento": "1970-11-16",
+            "telefone": "(11) 95595-7532",
+            "endereco": {
+                "rua": "Rua 6",
+                "numero": 41,
+                "bairro": "Santa Cruz",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "63276-722"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 3101.63,
+                "ultima_compra": "2024-11-08"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 30,
+            "nome": "Cliente_30",
+            "email": "cliente30@email.com",
+            "cpf": "248.379.445-79",
+            "data_nascimento": "1971-07-12",
+            "telefone": "(11) 92909-3984",
+            "endereco": {
+                "rua": "Rua 90",
+                "numero": 633,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "RS",
+                "cep": "22954-371"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 6917.78,
+                "ultima_compra": "2025-02-28"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 31,
+            "nome": "Cliente_31",
+            "email": "cliente31@email.com",
+            "cpf": "279.380.947-29",
+            "data_nascimento": "1968-04-17",
+            "telefone": "(11) 98048-2176",
+            "endereco": {
+                "rua": "Rua 26",
+                "numero": 108,
+                "bairro": "Boa Vista",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "21500-831"
+            },
+            "historico_compras": {
+                "total_compras": 14,
+                "valor_total_gasto": 5054.19,
+                "ultima_compra": "2025-01-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Acessórios",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 32,
+            "nome": "Cliente_32",
+            "email": "cliente32@email.com",
+            "cpf": "699.364.402-30",
+            "data_nascimento": "1999-04-27",
+            "telefone": "(11) 93265-7929",
+            "endereco": {
+                "rua": "Rua 93",
+                "numero": 67,
+                "bairro": "Boa Vista",
+                "cidade": "Rio de Janeiro",
+                "estado": "MG",
+                "cep": "20590-984"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 9759.05,
+                "ultima_compra": "2024-11-18"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 33,
+            "nome": "Cliente_33",
+            "email": "cliente33@email.com",
+            "cpf": "419.342.482-24",
+            "data_nascimento": "1978-11-25",
+            "telefone": "(11) 94155-7196",
+            "endereco": {
+                "rua": "Rua 5",
+                "numero": 625,
+                "bairro": "Jardim",
+                "cidade": "Rio de Janeiro",
+                "estado": "RS",
+                "cep": "70938-621"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 5127.97,
+                "ultima_compra": "2025-01-25"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Monitores",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 34,
+            "nome": "Cliente_34",
+            "email": "cliente34@email.com",
+            "cpf": "328.204.163-22",
+            "data_nascimento": "1975-03-05",
+            "telefone": "(11) 98207-1322",
+            "endereco": {
+                "rua": "Rua 55",
+                "numero": 381,
+                "bairro": "Jardim",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "13579-529"
+            },
+            "historico_compras": {
+                "total_compras": 4,
+                "valor_total_gasto": 5796.1,
+                "ultima_compra": "2024-12-09"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 35,
+            "nome": "Cliente_35",
+            "email": "cliente35@email.com",
+            "cpf": "936.372.172-88",
+            "data_nascimento": "1956-12-12",
+            "telefone": "(11) 94135-6908",
+            "endereco": {
+                "rua": "Rua 16",
+                "numero": 424,
+                "bairro": "Santa Cruz",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "81465-387"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 8968.59,
+                "ultima_compra": "2025-07-21"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 36,
+            "nome": "Cliente_36",
+            "email": "cliente36@email.com",
+            "cpf": "898.518.984-70",
+            "data_nascimento": "1980-01-11",
+            "telefone": "(11) 99645-3824",
+            "endereco": {
+                "rua": "Rua 30",
+                "numero": 523,
+                "bairro": "Vila Nova",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "38707-786"
+            },
+            "historico_compras": {
+                "total_compras": 11,
+                "valor_total_gasto": 5852.11,
+                "ultima_compra": "2025-10-05"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 37,
+            "nome": "Cliente_37",
+            "email": "cliente37@email.com",
+            "cpf": "759.627.669-32",
+            "data_nascimento": "1961-03-05",
+            "telefone": "(11) 94547-2910",
+            "endereco": {
+                "rua": "Rua 57",
+                "numero": 669,
+                "bairro": "Centro",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "81171-386"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 1411.21,
+                "ultima_compra": "2025-08-10"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 38,
+            "nome": "Cliente_38",
+            "email": "cliente38@email.com",
+            "cpf": "326.683.463-29",
+            "data_nascimento": "1971-12-14",
+            "telefone": "(11) 92669-2540",
+            "endereco": {
+                "rua": "Rua 81",
+                "numero": 670,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "13144-165"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 5567.46,
+                "ultima_compra": "2025-11-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 39,
+            "nome": "Cliente_39",
+            "email": "cliente39@email.com",
+            "cpf": "304.909.306-83",
+            "data_nascimento": "1964-05-08",
+            "telefone": "(11) 93425-4790",
+            "endereco": {
+                "rua": "Rua 69",
+                "numero": 629,
+                "bairro": "Centro",
+                "cidade": "Rio de Janeiro",
+                "estado": "SP",
+                "cep": "51264-755"
+            },
+            "historico_compras": {
+                "total_compras": 14,
+                "valor_total_gasto": 487.09,
+                "ultima_compra": "2025-05-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Acessórios",
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 40,
+            "nome": "Cliente_40",
+            "email": "cliente40@email.com",
+            "cpf": "582.559.340-19",
+            "data_nascimento": "1958-09-03",
+            "telefone": "(11) 97568-8417",
+            "endereco": {
+                "rua": "Rua 20",
+                "numero": 369,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "RJ",
+                "cep": "17907-684"
+            },
+            "historico_compras": {
+                "total_compras": 1,
+                "valor_total_gasto": 7148.7,
+                "ultima_compra": "2024-12-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Notebooks",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 41,
+            "nome": "Cliente_41",
+            "email": "cliente41@email.com",
+            "cpf": "429.602.879-31",
+            "data_nascimento": "1991-02-23",
+            "telefone": "(11) 98886-4345",
+            "endereco": {
+                "rua": "Rua 23",
+                "numero": 125,
+                "bairro": "Boa Vista",
+                "cidade": "Belo Horizonte",
+                "estado": "SP",
+                "cep": "26298-604"
+            },
+            "historico_compras": {
+                "total_compras": 11,
+                "valor_total_gasto": 6105.69,
+                "ultima_compra": "2025-10-11"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 42,
+            "nome": "Cliente_42",
+            "email": "cliente42@email.com",
+            "cpf": "190.929.113-36",
+            "data_nascimento": "1958-03-21",
+            "telefone": "(11) 91695-3859",
+            "endereco": {
+                "rua": "Rua 79",
+                "numero": 194,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "MG",
+                "cep": "95951-176"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 3547.79,
+                "ultima_compra": "2025-05-17"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Monitores",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 43,
+            "nome": "Cliente_43",
+            "email": "cliente43@email.com",
+            "cpf": "817.628.490-78",
+            "data_nascimento": "1977-07-05",
+            "telefone": "(11) 91280-6274",
+            "endereco": {
+                "rua": "Rua 17",
+                "numero": 35,
+                "bairro": "Centro",
+                "cidade": "Porto Alegre",
+                "estado": "RJ",
+                "cep": "88347-591"
+            },
+            "historico_compras": {
+                "total_compras": 10,
+                "valor_total_gasto": 3727.47,
+                "ultima_compra": "2025-10-29"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 44,
+            "nome": "Cliente_44",
+            "email": "cliente44@email.com",
+            "cpf": "217.502.304-47",
+            "data_nascimento": "1969-09-27",
+            "telefone": "(11) 94654-4511",
+            "endereco": {
+                "rua": "Rua 1",
+                "numero": 794,
+                "bairro": "Jardim",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "91918-943"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 493.13,
+                "ultima_compra": "2025-07-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Monitores",
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 45,
+            "nome": "Cliente_45",
+            "email": "cliente45@email.com",
+            "cpf": "576.640.511-35",
+            "data_nascimento": "1958-04-11",
+            "telefone": "(11) 92260-7919",
+            "endereco": {
+                "rua": "Rua 45",
+                "numero": 4,
+                "bairro": "Jardim",
+                "cidade": "São Paulo",
+                "estado": "RJ",
+                "cep": "96470-606"
+            },
+            "historico_compras": {
+                "total_compras": 11,
+                "valor_total_gasto": 1198.57,
+                "ultima_compra": "2025-10-04"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 46,
+            "nome": "Cliente_46",
+            "email": "cliente46@email.com",
+            "cpf": "969.799.340-38",
+            "data_nascimento": "1974-10-31",
+            "telefone": "(11) 99256-7784",
+            "endereco": {
+                "rua": "Rua 78",
+                "numero": 301,
+                "bairro": "Jardim",
+                "cidade": "Rio de Janeiro",
+                "estado": "RS",
+                "cep": "77122-447"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 6299.03,
+                "ultima_compra": "2025-07-11"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 47,
+            "nome": "Cliente_47",
+            "email": "cliente47@email.com",
+            "cpf": "506.454.431-66",
+            "data_nascimento": "1969-09-08",
+            "telefone": "(11) 92358-8750",
+            "endereco": {
+                "rua": "Rua 73",
+                "numero": 488,
+                "bairro": "Vila Nova",
+                "cidade": "Rio de Janeiro",
+                "estado": "RJ",
+                "cep": "70664-292"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 2474.79,
+                "ultima_compra": "2025-06-01"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 48,
+            "nome": "Cliente_48",
+            "email": "cliente48@email.com",
+            "cpf": "361.445.893-71",
+            "data_nascimento": "1986-05-16",
+            "telefone": "(11) 96054-7473",
+            "endereco": {
+                "rua": "Rua 84",
+                "numero": 117,
+                "bairro": "Santa Cruz",
+                "cidade": "Curitiba",
+                "estado": "RS",
+                "cep": "33573-109"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 1067.57,
+                "ultima_compra": "2025-10-16"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Hardware",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 49,
+            "nome": "Cliente_49",
+            "email": "cliente49@email.com",
+            "cpf": "134.315.758-78",
+            "data_nascimento": "1982-01-25",
+            "telefone": "(11) 93943-1548",
+            "endereco": {
+                "rua": "Rua 25",
+                "numero": 789,
+                "bairro": "Centro",
+                "cidade": "Curitiba",
+                "estado": "RS",
+                "cep": "75236-165"
+            },
+            "historico_compras": {
+                "total_compras": 19,
+                "valor_total_gasto": 2335.92,
+                "ultima_compra": "2024-12-26"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 50,
+            "nome": "Cliente_50",
+            "email": "cliente50@email.com",
+            "cpf": "388.563.550-81",
+            "data_nascimento": "2005-09-22",
+            "telefone": "(11) 99008-1602",
+            "endereco": {
+                "rua": "Rua 66",
+                "numero": 19,
+                "bairro": "Boa Vista",
+                "cidade": "Belo Horizonte",
+                "estado": "RJ",
+                "cep": "34067-618"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 5803.37,
+                "ultima_compra": "2025-05-31"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 51,
+            "nome": "Cliente_51",
+            "email": "cliente51@email.com",
+            "cpf": "974.678.857-55",
+            "data_nascimento": "1957-06-17",
+            "telefone": "(11) 95999-2555",
+            "endereco": {
+                "rua": "Rua 43",
+                "numero": 269,
+                "bairro": "Boa Vista",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "63790-171"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 9986.94,
+                "ultima_compra": "2025-03-29"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Hardware",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 52,
+            "nome": "Cliente_52",
+            "email": "cliente52@email.com",
+            "cpf": "102.681.623-22",
+            "data_nascimento": "2004-02-03",
+            "telefone": "(11) 98349-1835",
+            "endereco": {
+                "rua": "Rua 21",
+                "numero": 231,
+                "bairro": "Jardim",
+                "cidade": "São Paulo",
+                "estado": "RJ",
+                "cep": "65770-214"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 8006.76,
+                "ultima_compra": "2025-05-16"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 53,
+            "nome": "Cliente_53",
+            "email": "cliente53@email.com",
+            "cpf": "823.215.729-80",
+            "data_nascimento": "1960-12-13",
+            "telefone": "(11) 94913-6161",
+            "endereco": {
+                "rua": "Rua 22",
+                "numero": 791,
+                "bairro": "Boa Vista",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "45327-636"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 1814.1,
+                "ultima_compra": "2025-05-05"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 54,
+            "nome": "Cliente_54",
+            "email": "cliente54@email.com",
+            "cpf": "692.347.819-93",
+            "data_nascimento": "1969-04-16",
+            "telefone": "(11) 93727-6915",
+            "endereco": {
+                "rua": "Rua 69",
+                "numero": 368,
+                "bairro": "Jardim",
+                "cidade": "Porto Alegre",
+                "estado": "RJ",
+                "cep": "74310-484"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 9580.46,
+                "ultima_compra": "2025-05-16"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 55,
+            "nome": "Cliente_55",
+            "email": "cliente55@email.com",
+            "cpf": "696.962.919-64",
+            "data_nascimento": "1958-04-13",
+            "telefone": "(11) 95674-6935",
+            "endereco": {
+                "rua": "Rua 90",
+                "numero": 52,
+                "bairro": "Boa Vista",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "59206-115"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 1130.55,
+                "ultima_compra": "2025-02-23"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 56,
+            "nome": "Cliente_56",
+            "email": "cliente56@email.com",
+            "cpf": "384.286.938-50",
+            "data_nascimento": "1962-12-08",
+            "telefone": "(11) 96673-2609",
+            "endereco": {
+                "rua": "Rua 31",
+                "numero": 374,
+                "bairro": "Centro",
+                "cidade": "Curitiba",
+                "estado": "PR",
+                "cep": "33201-336"
+            },
+            "historico_compras": {
+                "total_compras": 1,
+                "valor_total_gasto": 5983.35,
+                "ultima_compra": "2025-09-04"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 57,
+            "nome": "Cliente_57",
+            "email": "cliente57@email.com",
+            "cpf": "120.571.494-15",
+            "data_nascimento": "1997-05-22",
+            "telefone": "(11) 98871-6388",
+            "endereco": {
+                "rua": "Rua 6",
+                "numero": 844,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "33619-597"
+            },
+            "historico_compras": {
+                "total_compras": 4,
+                "valor_total_gasto": 9087.25,
+                "ultima_compra": "2025-01-06"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 58,
+            "nome": "Cliente_58",
+            "email": "cliente58@email.com",
+            "cpf": "444.924.361-60",
+            "data_nascimento": "1997-09-10",
+            "telefone": "(11) 95182-5284",
+            "endereco": {
+                "rua": "Rua 84",
+                "numero": 983,
+                "bairro": "Boa Vista",
+                "cidade": "Belo Horizonte",
+                "estado": "SP",
+                "cep": "29814-768"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 6050.9,
+                "ultima_compra": "2025-04-20"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 59,
+            "nome": "Cliente_59",
+            "email": "cliente59@email.com",
+            "cpf": "271.275.814-41",
+            "data_nascimento": "1996-01-18",
+            "telefone": "(11) 91317-3840",
+            "endereco": {
+                "rua": "Rua 55",
+                "numero": 409,
+                "bairro": "Boa Vista",
+                "cidade": "Porto Alegre",
+                "estado": "PR",
+                "cep": "70417-950"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 3679.11,
+                "ultima_compra": "2025-04-04"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 60,
+            "nome": "Cliente_60",
+            "email": "cliente60@email.com",
+            "cpf": "884.742.512-70",
+            "data_nascimento": "1969-06-01",
+            "telefone": "(11) 96338-4641",
+            "endereco": {
+                "rua": "Rua 77",
+                "numero": 126,
+                "bairro": "Santa Cruz",
+                "cidade": "Curitiba",
+                "estado": "PR",
+                "cep": "55050-446"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 7067.53,
+                "ultima_compra": "2025-05-11"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 61,
+            "nome": "Cliente_61",
+            "email": "cliente61@email.com",
+            "cpf": "838.163.258-18",
+            "data_nascimento": "1978-04-30",
+            "telefone": "(11) 93815-2375",
+            "endereco": {
+                "rua": "Rua 83",
+                "numero": 211,
+                "bairro": "Vila Nova",
+                "cidade": "Belo Horizonte",
+                "estado": "SP",
+                "cep": "14820-915"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 9349.14,
+                "ultima_compra": "2025-04-12"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 62,
+            "nome": "Cliente_62",
+            "email": "cliente62@email.com",
+            "cpf": "405.273.845-92",
+            "data_nascimento": "1994-11-10",
+            "telefone": "(11) 99168-9761",
+            "endereco": {
+                "rua": "Rua 34",
+                "numero": 275,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "RJ",
+                "cep": "35351-144"
+            },
+            "historico_compras": {
+                "total_compras": 6,
+                "valor_total_gasto": 1100.97,
+                "ultima_compra": "2025-02-05"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 63,
+            "nome": "Cliente_63",
+            "email": "cliente63@email.com",
+            "cpf": "258.867.333-71",
+            "data_nascimento": "1990-11-22",
+            "telefone": "(11) 95970-3480",
+            "endereco": {
+                "rua": "Rua 11",
+                "numero": 704,
+                "bairro": "Santa Cruz",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "12811-521"
+            },
+            "historico_compras": {
+                "total_compras": 14,
+                "valor_total_gasto": 1956.1,
+                "ultima_compra": "2025-04-27"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 64,
+            "nome": "Cliente_64",
+            "email": "cliente64@email.com",
+            "cpf": "434.946.353-75",
+            "data_nascimento": "1984-08-05",
+            "telefone": "(11) 99936-5287",
+            "endereco": {
+                "rua": "Rua 9",
+                "numero": 80,
+                "bairro": "Vila Nova",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "16659-691"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 8798.37,
+                "ultima_compra": "2025-08-19"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Hardware",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 65,
+            "nome": "Cliente_65",
+            "email": "cliente65@email.com",
+            "cpf": "177.416.136-17",
+            "data_nascimento": "1959-04-28",
+            "telefone": "(11) 97556-3817",
+            "endereco": {
+                "rua": "Rua 44",
+                "numero": 315,
+                "bairro": "Santa Cruz",
+                "cidade": "São Paulo",
+                "estado": "PR",
+                "cep": "53406-424"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 7899.07,
+                "ultima_compra": "2025-02-04"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 66,
+            "nome": "Cliente_66",
+            "email": "cliente66@email.com",
+            "cpf": "381.933.714-59",
+            "data_nascimento": "1976-05-30",
+            "telefone": "(11) 91576-6050",
+            "endereco": {
+                "rua": "Rua 23",
+                "numero": 398,
+                "bairro": "Boa Vista",
+                "cidade": "Rio de Janeiro",
+                "estado": "MG",
+                "cep": "52578-748"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 6964.11,
+                "ultima_compra": "2025-05-30"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 67,
+            "nome": "Cliente_67",
+            "email": "cliente67@email.com",
+            "cpf": "829.472.233-83",
+            "data_nascimento": "1984-01-27",
+            "telefone": "(11) 94987-9319",
+            "endereco": {
+                "rua": "Rua 41",
+                "numero": 268,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "PR",
+                "cep": "74879-907"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 5287.17,
+                "ultima_compra": "2025-03-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 68,
+            "nome": "Cliente_68",
+            "email": "cliente68@email.com",
+            "cpf": "270.280.287-85",
+            "data_nascimento": "2004-12-28",
+            "telefone": "(11) 97528-8949",
+            "endereco": {
+                "rua": "Rua 10",
+                "numero": 662,
+                "bairro": "Santa Cruz",
+                "cidade": "Porto Alegre",
+                "estado": "RS",
+                "cep": "54701-731"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 1055.5,
+                "ultima_compra": "2025-01-30"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 69,
+            "nome": "Cliente_69",
+            "email": "cliente69@email.com",
+            "cpf": "565.266.283-46",
+            "data_nascimento": "1962-11-17",
+            "telefone": "(11) 95973-1264",
+            "endereco": {
+                "rua": "Rua 55",
+                "numero": 67,
+                "bairro": "Jardim",
+                "cidade": "Belo Horizonte",
+                "estado": "RJ",
+                "cep": "59839-145"
+            },
+            "historico_compras": {
+                "total_compras": 1,
+                "valor_total_gasto": 8313.58,
+                "ultima_compra": "2025-06-27"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 70,
+            "nome": "Cliente_70",
+            "email": "cliente70@email.com",
+            "cpf": "254.908.247-33",
+            "data_nascimento": "1966-07-18",
+            "telefone": "(11) 94326-1411",
+            "endereco": {
+                "rua": "Rua 99",
+                "numero": 493,
+                "bairro": "Boa Vista",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "69403-507"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 6328.25,
+                "ultima_compra": "2025-10-08"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 71,
+            "nome": "Cliente_71",
+            "email": "cliente71@email.com",
+            "cpf": "727.818.556-26",
+            "data_nascimento": "1971-01-01",
+            "telefone": "(11) 96458-6523",
+            "endereco": {
+                "rua": "Rua 94",
+                "numero": 687,
+                "bairro": "Santa Cruz",
+                "cidade": "Porto Alegre",
+                "estado": "MG",
+                "cep": "83932-681"
+            },
+            "historico_compras": {
+                "total_compras": 18,
+                "valor_total_gasto": 1411.67,
+                "ultima_compra": "2024-12-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 72,
+            "nome": "Cliente_72",
+            "email": "cliente72@email.com",
+            "cpf": "130.489.472-92",
+            "data_nascimento": "1963-07-28",
+            "telefone": "(11) 92363-7329",
+            "endereco": {
+                "rua": "Rua 5",
+                "numero": 314,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "RS",
+                "cep": "92728-654"
+            },
+            "historico_compras": {
+                "total_compras": 4,
+                "valor_total_gasto": 3587.59,
+                "ultima_compra": "2025-01-23"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 73,
+            "nome": "Cliente_73",
+            "email": "cliente73@email.com",
+            "cpf": "802.307.858-83",
+            "data_nascimento": "1982-08-06",
+            "telefone": "(11) 98280-6072",
+            "endereco": {
+                "rua": "Rua 23",
+                "numero": 951,
+                "bairro": "Vila Nova",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "85324-308"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 8109.01,
+                "ultima_compra": "2025-01-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 74,
+            "nome": "Cliente_74",
+            "email": "cliente74@email.com",
+            "cpf": "659.127.899-33",
+            "data_nascimento": "1995-11-24",
+            "telefone": "(11) 91532-5768",
+            "endereco": {
+                "rua": "Rua 76",
+                "numero": 213,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "MG",
+                "cep": "94908-280"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 1004.5,
+                "ultima_compra": "2025-07-22"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 75,
+            "nome": "Cliente_75",
+            "email": "cliente75@email.com",
+            "cpf": "183.531.230-68",
+            "data_nascimento": "1967-11-23",
+            "telefone": "(11) 96929-7552",
+            "endereco": {
+                "rua": "Rua 97",
+                "numero": 850,
+                "bairro": "Boa Vista",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "74702-937"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 5582.19,
+                "ultima_compra": "2025-08-14"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 76,
+            "nome": "Cliente_76",
+            "email": "cliente76@email.com",
+            "cpf": "498.225.243-54",
+            "data_nascimento": "1975-09-15",
+            "telefone": "(11) 95929-7823",
+            "endereco": {
+                "rua": "Rua 38",
+                "numero": 500,
+                "bairro": "Vila Nova",
+                "cidade": "Rio de Janeiro",
+                "estado": "MG",
+                "cep": "43528-969"
+            },
+            "historico_compras": {
+                "total_compras": 7,
+                "valor_total_gasto": 173.42,
+                "ultima_compra": "2024-11-21"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 77,
+            "nome": "Cliente_77",
+            "email": "cliente77@email.com",
+            "cpf": "441.613.122-22",
+            "data_nascimento": "1964-11-29",
+            "telefone": "(11) 93081-5548",
+            "endereco": {
+                "rua": "Rua 65",
+                "numero": 304,
+                "bairro": "Boa Vista",
+                "cidade": "Belo Horizonte",
+                "estado": "PR",
+                "cep": "93036-749"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 9111.76,
+                "ultima_compra": "2025-09-05"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Notebooks",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 78,
+            "nome": "Cliente_78",
+            "email": "cliente78@email.com",
+            "cpf": "229.159.535-93",
+            "data_nascimento": "1978-03-14",
+            "telefone": "(11) 94305-1449",
+            "endereco": {
+                "rua": "Rua 97",
+                "numero": 600,
+                "bairro": "Santa Cruz",
+                "cidade": "Curitiba",
+                "estado": "PR",
+                "cep": "99778-583"
+            },
+            "historico_compras": {
+                "total_compras": 15,
+                "valor_total_gasto": 8574.54,
+                "ultima_compra": "2025-09-12"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Hardware",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 79,
+            "nome": "Cliente_79",
+            "email": "cliente79@email.com",
+            "cpf": "820.586.348-13",
+            "data_nascimento": "1981-06-29",
+            "telefone": "(11) 99478-7096",
+            "endereco": {
+                "rua": "Rua 48",
+                "numero": 378,
+                "bairro": "Boa Vista",
+                "cidade": "São Paulo",
+                "estado": "RJ",
+                "cep": "42548-632"
+            },
+            "historico_compras": {
+                "total_compras": 3,
+                "valor_total_gasto": 1972.03,
+                "ultima_compra": "2025-09-11"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 80,
+            "nome": "Cliente_80",
+            "email": "cliente80@email.com",
+            "cpf": "980.222.373-54",
+            "data_nascimento": "1988-04-28",
+            "telefone": "(11) 97932-1827",
+            "endereco": {
+                "rua": "Rua 23",
+                "numero": 588,
+                "bairro": "Vila Nova",
+                "cidade": "Porto Alegre",
+                "estado": "SP",
+                "cep": "90223-105"
+            },
+            "historico_compras": {
+                "total_compras": 14,
+                "valor_total_gasto": 853.17,
+                "ultima_compra": "2025-07-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 81,
+            "nome": "Cliente_81",
+            "email": "cliente81@email.com",
+            "cpf": "381.513.860-83",
+            "data_nascimento": "1992-10-09",
+            "telefone": "(11) 92479-5068",
+            "endereco": {
+                "rua": "Rua 27",
+                "numero": 385,
+                "bairro": "Centro",
+                "cidade": "Belo Horizonte",
+                "estado": "MG",
+                "cep": "83357-909"
+            },
+            "historico_compras": {
+                "total_compras": 19,
+                "valor_total_gasto": 5495.79,
+                "ultima_compra": "2025-08-18"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 82,
+            "nome": "Cliente_82",
+            "email": "cliente82@email.com",
+            "cpf": "419.552.108-55",
+            "data_nascimento": "2004-04-10",
+            "telefone": "(11) 92184-5847",
+            "endereco": {
+                "rua": "Rua 98",
+                "numero": 289,
+                "bairro": "Vila Nova",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "40231-830"
+            },
+            "historico_compras": {
+                "total_compras": 10,
+                "valor_total_gasto": 9989.37,
+                "ultima_compra": "2025-06-21"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 83,
+            "nome": "Cliente_83",
+            "email": "cliente83@email.com",
+            "cpf": "645.966.656-62",
+            "data_nascimento": "1983-04-18",
+            "telefone": "(11) 93249-4816",
+            "endereco": {
+                "rua": "Rua 33",
+                "numero": 616,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "MG",
+                "cep": "99973-361"
+            },
+            "historico_compras": {
+                "total_compras": 12,
+                "valor_total_gasto": 7960.51,
+                "ultima_compra": "2025-02-27"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        },
+        {
+            "id": 84,
+            "nome": "Cliente_84",
+            "email": "cliente84@email.com",
+            "cpf": "626.376.978-74",
+            "data_nascimento": "1977-12-20",
+            "telefone": "(11) 99369-4180",
+            "endereco": {
+                "rua": "Rua 41",
+                "numero": 518,
+                "bairro": "Boa Vista",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "14809-931"
+            },
+            "historico_compras": {
+                "total_compras": 3,
+                "valor_total_gasto": 599.1,
+                "ultima_compra": "2024-11-04"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Acessórios",
+                    "Monitores",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 85,
+            "nome": "Cliente_85",
+            "email": "cliente85@email.com",
+            "cpf": "184.148.333-55",
+            "data_nascimento": "1978-10-24",
+            "telefone": "(11) 93525-9086",
+            "endereco": {
+                "rua": "Rua 58",
+                "numero": 156,
+                "bairro": "Boa Vista",
+                "cidade": "São Paulo",
+                "estado": "MG",
+                "cep": "62751-752"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 7001.35,
+                "ultima_compra": "2025-01-21"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 86,
+            "nome": "Cliente_86",
+            "email": "cliente86@email.com",
+            "cpf": "963.730.998-55",
+            "data_nascimento": "1964-10-15",
+            "telefone": "(11) 96406-7563",
+            "endereco": {
+                "rua": "Rua 50",
+                "numero": 583,
+                "bairro": "Santa Cruz",
+                "cidade": "Belo Horizonte",
+                "estado": "MG",
+                "cep": "96213-455"
+            },
+            "historico_compras": {
+                "total_compras": 13,
+                "valor_total_gasto": 4070.3,
+                "ultima_compra": "2025-01-03"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Periféricos",
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 87,
+            "nome": "Cliente_87",
+            "email": "cliente87@email.com",
+            "cpf": "741.675.523-55",
+            "data_nascimento": "1960-03-31",
+            "telefone": "(11) 91023-6098",
+            "endereco": {
+                "rua": "Rua 6",
+                "numero": 171,
+                "bairro": "Santa Cruz",
+                "cidade": "Curitiba",
+                "estado": "RJ",
+                "cep": "84858-133"
+            },
+            "historico_compras": {
+                "total_compras": 3,
+                "valor_total_gasto": 2436.11,
+                "ultima_compra": "2024-12-25"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 88,
+            "nome": "Cliente_88",
+            "email": "cliente88@email.com",
+            "cpf": "528.109.327-69",
+            "data_nascimento": "2001-07-01",
+            "telefone": "(11) 98557-9175",
+            "endereco": {
+                "rua": "Rua 79",
+                "numero": 522,
+                "bairro": "Vila Nova",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "93436-756"
+            },
+            "historico_compras": {
+                "total_compras": 2,
+                "valor_total_gasto": 1659.62,
+                "ultima_compra": "2025-01-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores"
+                ],
+                "forma_pagamento_preferida": "Débito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 89,
+            "nome": "Cliente_89",
+            "email": "cliente89@email.com",
+            "cpf": "411.789.872-46",
+            "data_nascimento": "2002-11-24",
+            "telefone": "(11) 98560-6848",
+            "endereco": {
+                "rua": "Rua 62",
+                "numero": 201,
+                "bairro": "Jardim",
+                "cidade": "São Paulo",
+                "estado": "MG",
+                "cep": "30418-415"
+            },
+            "historico_compras": {
+                "total_compras": 19,
+                "valor_total_gasto": 130.57,
+                "ultima_compra": "2025-03-22"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Notebooks",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 90,
+            "nome": "Cliente_90",
+            "email": "cliente90@email.com",
+            "cpf": "389.715.264-23",
+            "data_nascimento": "1989-09-16",
+            "telefone": "(11) 96206-2954",
+            "endereco": {
+                "rua": "Rua 1",
+                "numero": 481,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "PR",
+                "cep": "62464-706"
+            },
+            "historico_compras": {
+                "total_compras": 16,
+                "valor_total_gasto": 5352.57,
+                "ultima_compra": "2025-04-07"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 91,
+            "nome": "Cliente_91",
+            "email": "cliente91@email.com",
+            "cpf": "293.114.820-68",
+            "data_nascimento": "1959-06-08",
+            "telefone": "(11) 91100-1733",
+            "endereco": {
+                "rua": "Rua 80",
+                "numero": 75,
+                "bairro": "Centro",
+                "cidade": "Rio de Janeiro",
+                "estado": "PR",
+                "cep": "59454-984"
+            },
+            "historico_compras": {
+                "total_compras": 9,
+                "valor_total_gasto": 1820.96,
+                "ultima_compra": "2025-10-09"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 92,
+            "nome": "Cliente_92",
+            "email": "cliente92@email.com",
+            "cpf": "560.155.119-21",
+            "data_nascimento": "1986-01-24",
+            "telefone": "(11) 99046-9089",
+            "endereco": {
+                "rua": "Rua 83",
+                "numero": 971,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "RS",
+                "cep": "87997-437"
+            },
+            "historico_compras": {
+                "total_compras": 11,
+                "valor_total_gasto": 4573.33,
+                "ultima_compra": "2025-06-07"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Notebooks",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": true
+        },
+        {
+            "id": 93,
+            "nome": "Cliente_93",
+            "email": "cliente93@email.com",
+            "cpf": "166.786.106-46",
+            "data_nascimento": "1982-03-13",
+            "telefone": "(11) 98315-1955",
+            "endereco": {
+                "rua": "Rua 82",
+                "numero": 711,
+                "bairro": "Jardim",
+                "cidade": "Curitiba",
+                "estado": "SP",
+                "cep": "25236-697"
+            },
+            "historico_compras": {
+                "total_compras": 20,
+                "valor_total_gasto": 3289.33,
+                "ultima_compra": "2025-05-01"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": false
+        },
+        {
+            "id": 94,
+            "nome": "Cliente_94",
+            "email": "cliente94@email.com",
+            "cpf": "506.452.782-60",
+            "data_nascimento": "1964-06-10",
+            "telefone": "(11) 95173-4133",
+            "endereco": {
+                "rua": "Rua 60",
+                "numero": 685,
+                "bairro": "Centro",
+                "cidade": "Curitiba",
+                "estado": "MG",
+                "cep": "47387-466"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 5536.04,
+                "ultima_compra": "2025-05-11"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 95,
+            "nome": "Cliente_95",
+            "email": "cliente95@email.com",
+            "cpf": "161.985.874-75",
+            "data_nascimento": "2004-08-21",
+            "telefone": "(11) 97316-9818",
+            "endereco": {
+                "rua": "Rua 8",
+                "numero": 617,
+                "bairro": "Boa Vista",
+                "cidade": "Porto Alegre",
+                "estado": "RS",
+                "cep": "10088-873"
+            },
+            "historico_compras": {
+                "total_compras": 16,
+                "valor_total_gasto": 1386.5,
+                "ultima_compra": "2025-04-15"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware",
+                    "Monitores",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Boleto"
+            },
+            "ativo": true
+        },
+        {
+            "id": 96,
+            "nome": "Cliente_96",
+            "email": "cliente96@email.com",
+            "cpf": "711.895.838-18",
+            "data_nascimento": "1981-11-18",
+            "telefone": "(11) 94257-5094",
+            "endereco": {
+                "rua": "Rua 66",
+                "numero": 464,
+                "bairro": "Vila Nova",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "95362-643"
+            },
+            "historico_compras": {
+                "total_compras": 5,
+                "valor_total_gasto": 7991.53,
+                "ultima_compra": "2025-03-24"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Periféricos",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": true
+        },
+        {
+            "id": 97,
+            "nome": "Cliente_97",
+            "email": "cliente97@email.com",
+            "cpf": "443.986.807-22",
+            "data_nascimento": "1961-12-25",
+            "telefone": "(11) 96212-1797",
+            "endereco": {
+                "rua": "Rua 13",
+                "numero": 639,
+                "bairro": "Santa Cruz",
+                "cidade": "Rio de Janeiro",
+                "estado": "MG",
+                "cep": "25060-990"
+            },
+            "historico_compras": {
+                "total_compras": 7,
+                "valor_total_gasto": 297.48,
+                "ultima_compra": "2025-11-03"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Monitores",
+                    "Notebooks",
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 98,
+            "nome": "Cliente_98",
+            "email": "cliente98@email.com",
+            "cpf": "418.632.409-51",
+            "data_nascimento": "1985-09-26",
+            "telefone": "(11) 97139-7837",
+            "endereco": {
+                "rua": "Rua 61",
+                "numero": 630,
+                "bairro": "Jardim",
+                "cidade": "Belo Horizonte",
+                "estado": "SP",
+                "cep": "98914-607"
+            },
+            "historico_compras": {
+                "total_compras": 14,
+                "valor_total_gasto": 6430.68,
+                "ultima_compra": "2025-10-02"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Periféricos",
+                    "Monitores",
+                    "Acessórios"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 99,
+            "nome": "Cliente_99",
+            "email": "cliente99@email.com",
+            "cpf": "164.854.123-27",
+            "data_nascimento": "1992-10-09",
+            "telefone": "(11) 97385-6299",
+            "endereco": {
+                "rua": "Rua 93",
+                "numero": 798,
+                "bairro": "Centro",
+                "cidade": "Porto Alegre",
+                "estado": "MG",
+                "cep": "75630-256"
+            },
+            "historico_compras": {
+                "total_compras": 8,
+                "valor_total_gasto": 170.39,
+                "ultima_compra": "2025-09-08"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Notebooks",
+                    "Periféricos"
+                ],
+                "forma_pagamento_preferida": "Crédito"
+            },
+            "ativo": false
+        },
+        {
+            "id": 100,
+            "nome": "Cliente_100",
+            "email": "cliente100@email.com",
+            "cpf": "974.978.219-49",
+            "data_nascimento": "1983-05-26",
+            "telefone": "(11) 95718-7242",
+            "endereco": {
+                "rua": "Rua 56",
+                "numero": 522,
+                "bairro": "Jardim",
+                "cidade": "Belo Horizonte",
+                "estado": "RS",
+                "cep": "13302-642"
+            },
+            "historico_compras": {
+                "total_compras": 17,
+                "valor_total_gasto": 7873.81,
+                "ultima_compra": "2025-10-07"
+            },
+            "preferencias": {
+                "categorias_favoritas": [
+                    "Hardware"
+                ],
+                "forma_pagamento_preferida": "PIX"
+            },
+            "ativo": false
+        }
+    ]
+}

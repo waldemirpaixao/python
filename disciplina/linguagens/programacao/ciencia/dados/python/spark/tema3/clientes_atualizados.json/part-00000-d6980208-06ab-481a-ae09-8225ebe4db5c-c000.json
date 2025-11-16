@@ -1,0 +1,10 @@
+{"ativo":false,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente1@email.com","id":1,"idade":30,"nome":"Cliente_1","total_compras":100,"ultima_compra":"2023-11-06"}
+{"ativo":true,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente2@email.com","id":2,"idade":31,"nome":"Cliente_2","total_compras":200,"ultima_compra":"2023-11-06"}
+{"ativo":false,"categoria_favorita":"Hardware","cidade":"São Paulo","email":"cliente3@email.com","id":3,"idade":28,"nome":"Cliente_3","total_compras":300,"ultima_compra":"2023-11-06"}
+{"ativo":true,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente4@email.com","id":4,"idade":22,"nome":"Cliente_4","total_compras":400,"ultima_compra":"2023-11-06"}
+{"ativo":false,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente5@email.com","id":5,"idade":35,"nome":"Cliente_5","total_compras":500,"ultima_compra":"2023-11-06"}
+{"ativo":true,"categoria_favorita":"Hardware","cidade":"São Paulo","email":"cliente6@email.com","id":6,"idade":33,"nome":"Cliente_6","total_compras":600,"ultima_compra":"2023-11-06"}
+{"ativo":false,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente7@email.com","id":7,"idade":30,"nome":"Cliente_7","total_compras":700,"ultima_compra":"2023-11-06"}
+{"ativo":true,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente8@email.com","id":8,"idade":50,"nome":"Cliente_8","total_compras":800,"ultima_compra":"2023-11-06"}
+{"ativo":false,"categoria_favorita":"Hardware","cidade":"São Paulo","email":"cliente9@email.com","id":9,"idade":45,"nome":"Cliente_9","total_compras":900,"ultima_compra":"2023-11-06"}
+{"ativo":true,"categoria_favorita":"Hardware","cidade":"Rio de Janeiro","email":"cliente10@email.com","id":10,"idade":40,"nome":"Cliente_10","total_compras":1000,"ultima_compra":"2023-11-06"}
