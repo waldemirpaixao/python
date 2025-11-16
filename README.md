@@ -19,7 +19,7 @@
 - Site do [pyspark](https://spark.apache.org/docs/latest/api/python/getting_started/install.html) para instalação
 
 ### 4 - Processamento de linguagem Natural
-    4.1 - Instalaçaõ do NLTK
+    4.1 - Instalação do NLTK - Natural Language Toolkit
 ### 5 - Desenvolvimento de Aplicações IA -  Robótica, Imagem e Visão computacional
  - Instale o OpenCv
 
