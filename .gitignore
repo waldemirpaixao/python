@@ -1,0 +1,33 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Credenciais e configurações sensíveis
+.env
+.env.*
+config.ini
+
+# Arquivos de log e dados
+*.log
+*.sqlite3
+
+# Arquivos de sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Compilações e pacotes
+dist/
+build/
+*.egg-info/
