@@ -24,6 +24,9 @@
  - Instale o OpenCv
 
 ### 6 - Análise e Modelagem preditiva
+- Instale o Scipy
+- Instale o seaborn
+
 ### 7 - BI: a inteligência de negócios
 ### 8 - Governança de dados
 ### 9 - Projeto em ciência de dados com soluções para processamento paralelo e distribuído de dados
